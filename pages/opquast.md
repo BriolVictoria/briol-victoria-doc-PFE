@@ -264,4 +264,4 @@ L'application présente un niveau de qualité global satisfaisant au regard des 
 
 ---
 
-👉 [⬅ Retour à l'accueil](/)
+[Retour à l'accueil](/)
