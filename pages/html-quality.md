@@ -157,27 +157,27 @@ Les images responsives utilisent l'attribut `srcset` afin de proposer automatiqu
 
 ```html
 <img
-    src="/storage/images/example-800.webp"
-    srcset="
-        /storage/images/example-400.webp 400w,
-        /storage/images/example-800.webp 800w,
-        /storage/images/example-1200.webp 1200w"
-    sizes="(max-width: 768px) 100vw, 800px"
-    alt="..."
->
+     src="{!! $image_path !!}"
+     srcset="
+        {{ asset('asset/img/public/hero_section/dashboard_image/dashboard-400.webp') }} 400w,
+        {{ asset('asset/img/public/hero_section/dashboard_image/dashboard-800.webp') }} 800w,
+        {{ asset('asset/img/public/hero_section/dashboard_image/dashboard-1200.webp') }} 1200w,
+        {{ asset('asset/img/public/hero_section/dashboard_image/dashboard-1600.webp') }} 1600w"
+                sizes="(max-width: 768px) 90vw, 70vw"
+                alt="{!! $image_alt !!}"
+                width="1600"
+                height="900"
+                loading="eager"
+                fetchpriority="high"
+                class="appears_up 2xl:w-308 w-87.5 lg:w-150 shadow-md"
+/>
 ```
 
 ### Capture du code généré
 
-<img src="/images/srcset_example.png" alt="Exemple srcset" width="800">
+<img src="/images/srcset_images_homepage.png" alt="Exemple srcset" width="800">
 
 *Figure 7 — Utilisation de l'attribut srcset.*
-
-### Vérification dans les outils de développement
-
-<img src="/images/srcset_network.png" alt="Chargement des images" width="800">
-
-*Figure 8 — Sélection automatique de la ressource la plus adaptée par le navigateur.*
 
 ### Résultats obtenus
 
