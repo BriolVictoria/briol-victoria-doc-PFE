@@ -10,21 +10,18 @@ Ce document présente les éléments attestant de la qualité du code HTML du pr
 
 ---
 
-## 📌 1. Headings map des pages publiques
+## 1. Headings map des pages publiques
 
 Les pages publiques respectent une structure logique des titres.
 
 ### Rendu Headings map
-📷 Capture d’écran de la page d'accueil:
+Capture d’écran de la page d'accueil:
 
 ![Headings map - page accueil](/images/headings_map_homepage.png)
 
-📷 Capture d’écran de la page d'aide:
+Capture d’écran de la page d'aide:
 
 ![Headings map - page ...](/images/headings_map_helper.png)
-
-### Analyse
-...
 
 ---
 
@@ -69,6 +66,38 @@ Le projet respecte les bonnes pratiques suivantes :
 
 Certaines pages utilisent des microdonnées pour enrichir le contenu.
 
-### Exemple de microdata utilisée
+### Microdata utilisée
 ```html
+<section
+    class="bg-linear-to-r from-amber-800 via-amber-50 to-amber-800">
+    <div class="section-public max-w-440 m-auto justify-center flex flex-col gap-6">
+        <div itemscope itemtype="https://schema.org/FAQPage">
+            <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="flex flex-col gap-3">
+                <h2 itemprop="name"
+                    class="font-[Bodoni] text-5xl lg:text-7xl text-rose-900 font-normal text-center">{!! $title !!}</h2>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <p itemprop="text"
+                       class="text-base lg:text-lg text-rose-900 font-normal text-center">{!! $sub_title !!}</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="flex flex-col gap-3 2xl:grid 2xl:grid-cols-13">
+            @foreach($details as $detail)
+                <x-public.helper.faq_details
+                    :title="$detail['title']"
+                    :content="$detail['content']"
+                    :image_path="$detail['image_path']"
+                    :image_alt="$detail['image_alt']"
+                />
+            @endforeach
+        </div>
+    </div>
+</section>
+```
+### Résultats de validation
+
+📷 Capture d’écran du résultat global :
+
+[Microdata - page aide](/images/microdata_helper.png)
 ...
