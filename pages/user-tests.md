@@ -22,3 +22,6 @@ permalink: /user-tests/
 ## Analyse
 - Problèmes rencontrés
 - Améliorations proposées
+
+- ---
+[Retour à l’accueil](/)
