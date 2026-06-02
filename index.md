@@ -5,13 +5,24 @@ permalink: /
 ---
 
 # Documentation technique du projet PFE
-Ce site regroupe l’ensemble des preuves et analyses techniques du projet :
-- Qualité HTML et sémantique
-- Audit Lighthouse
-- Accessibilité et contraste
-- Tests automatisés
-- Performance serveur
-- Conformité Opquast
-- Tests utilisateurs
-- Améliorations JavaScript
-Utilisez le menu ou les liens ci-dessous pour naviguer.
+
+Ce site regroupe l’ensemble des preuves et analyses techniques du projet.
+
+---
+
+## Navigation
+
+- [Qualité HTML](/html-quality/)
+- [Audit Lighthouse](/lighthouse/)
+- [Contraste & accessibilité](/contrast/)
+- [Performance serveur](/server-performance/)
+- [Tests automatisés](/tests/)
+- [Opquast](/opquast/)
+- [Tests utilisateurs](/user-tests/)
+- [Améliorations JavaScript](/js-enhancements/)
+
+---
+
+## Objectif du site
+
+Ce site sert de **documentation technique et preuve de qualité** du projet PFE.
