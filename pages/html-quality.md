@@ -82,12 +82,44 @@ Le développement du projet s'appuie sur les recommandations de la HTML Checklis
 
 ## 4. Utilisation des microdonnées
 
-Certaines pages utilisent des microdonnées Schema.org afin d'améliorer la compréhension du contenu par les moteurs de recherche.
+Une page utilise des microdonnées Schema.org afin d'améliorer la compréhension du contenu par les moteurs de recherche.
 
 ### Exemple d'implémentation
 
 ```html
-...
+@props([
+    'title',
+    'sub_title',
+    'details',
+])
+
+<section
+    class="bg-linear-to-r from-amber-800 via-amber-50 to-amber-800">
+    <div class="section-public max-w-440 m-auto justify-center flex flex-col gap-6">
+        <div itemscope itemtype="https://schema.org/FAQPage">
+            <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="flex flex-col gap-3">
+                <h2 itemprop="name"
+                    class="font-[Bodoni] text-5xl lg:text-7xl text-rose-900 font-normal text-center">{!! $title !!}</h2>
+                <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <p itemprop="text"
+                       class="text-base lg:text-lg text-rose-900 font-normal text-center">{!! $sub_title !!}</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="flex flex-col gap-3 2xl:grid 2xl:grid-cols-13">
+            @foreach($details as $detail)
+                <x-public.helper.faq_details
+                    :title="$detail['title']"
+                    :content="$detail['content']"
+                    :image_path="$detail['image_path']"
+                    :image_alt="$detail['image_alt']"
+                />
+            @endforeach
+        </div>
+    </div>
+</section>
+
 ```
 
 ### Validation
