@@ -204,4 +204,4 @@ Ces éléments contribuent à améliorer l'accessibilité, la maintenabilité et
 
 ---
 
-👉 [⬅ Retour à l'accueil](/)
+[Retour à l'accueil](/)
