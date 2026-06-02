@@ -16,3 +16,6 @@ Application de 2 règles par catégorie (23 catégories)
 - UX
 
 📌 Tableau ou checklist validée
+
+---
+[Retour à l’accueil](/)
