@@ -52,4 +52,4 @@ Les éventuels problèmes détectés durant le développement ont été corrigé
 
 ---
 
-👉 [⬅ Retour à l'accueil](/)
+[Retour à l'accueil](/)
