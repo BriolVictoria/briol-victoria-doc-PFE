@@ -25,17 +25,17 @@ Capture d’écran de la page d'aide:
 
 ---
 
-## 📌 2. Validation du code HTML (Total Validator)
+## 2. Validation du code HTML (Total Validator)
 
 Les pages ont été testées avec l’outil Total Validator.
 
 ### Résultats de validation
 
-📷 Capture d’écran du résultat global :
+Capture d’écran du résultat global :
 
 ![Validation HTML - global](/images/...)
 
-📷 Capture d’écran détails erreurs (si applicable) :
+Capture d’écran détails erreurs (si applicable) :
 
 ![Validation HTML - détails](/images/...)
 
@@ -44,7 +44,7 @@ Les pages ont été testées avec l’outil Total Validator.
 
 ---
 
-## 📌 3. Bonnes pratiques et sémantique HTML
+## 3. Bonnes pratiques et sémantique HTML
 
 Le projet respecte les bonnes pratiques suivantes :
 
@@ -62,7 +62,7 @@ Le projet respecte les bonnes pratiques suivantes :
 
 ---
 
-## 📌 4. Microdata (schema.org)
+## 4. Microdata (schema.org)
 
 Certaines pages utilisent des microdonnées pour enrichir le contenu.
 
@@ -97,7 +97,71 @@ Certaines pages utilisent des microdonnées pour enrichir le contenu.
 ```
 ### Résultats de validation
 
-📷 Capture d’écran du résultat global :
+Capture d’écran du résultat global :
 
 ![Microdata - page aide](/images/microdata_helper.png)
+---
+
+## 5. Optimisation des images
+
+Afin d'améliorer les performances du site et l'expérience utilisateur, plusieurs optimisations ont été mises en place concernant l'affichage des images.
+
+### Redimensionnement côté serveur
+
+Les images sont redimensionnées avant leur mise à disposition sur le site afin d'éviter le téléchargement de fichiers inutilement volumineux.
+
+Les dimensions générées correspondent aux besoins réels de l'interface :
+
+- Miniatures : ...
+- Images de cartes : ...
+- Images affichées en plein écran : ...
+
+Cette approche permet de :
+
+- réduire le poids des pages ;
+- diminuer le temps de chargement ;
+- limiter la consommation de bande passante ;
+- améliorer le score Lighthouse.
+
+### Utilisation de `srcset`
+
+Les images responsives utilisent l'attribut `srcset` afin de proposer automatiquement une version adaptée à la résolution de l'écran de l'utilisateur.
+
+#### Exemple de code
+
+```html
+<img
+    src="/storage/images/example-800.webp"
+    srcset="
+        /storage/images/example-400.webp 400w,
+        /storage/images/example-800.webp 800w,
+        /storage/images/example-1200.webp 1200w"
+    sizes="(max-width: 768px) 100vw, 800px"
+    alt="..."
+>
+```
+
+### Capture d'écran du code généré
+
+![Utilisation de srcset](/images/srcset_example.png)
+
+### Vérification dans les outils de développement
+
+La capture ci-dessous montre que le navigateur sélectionne automatiquement la version la plus adaptée à la taille de l'écran.
+
+![Inspection navigateur](/images/srcset_network.png)
+
+### Résultats obtenus
+
+Les optimisations mises en place permettent :
+
+- un chargement plus rapide des pages ;
+- une meilleure expérience utilisateur sur mobile ;
+- une réduction du poids total des ressources téléchargées ;
+- une amélioration des performances mesurées par Lighthouse.
+
+### Commentaires
+
 ...
+
+---
