@@ -6,21 +6,69 @@ permalink: /html-quality/
 
 # Qualité du code HTML
 
-## 1. Structure sémantique
-- Utilisation correcte de `<header>`, `<main>`, `<section>`, `<article>`
-- Respect des niveaux de titres (H1 → H6)
+Ce document présente les éléments attestant de la qualité du code HTML du projet.
 
-## 2. Headings map
-📌 Ajouter ici captures d’écran des headings maps
-
-## 3. Validation HTML
-📌 Ajouter captures Total Validator
-
-## 4. Microdata
-- Utilisation de schema.org sur les pages pertinentes
-
-## 5. Images
-- Optimisation des images
-- Utilisation de `srcset` pour responsive images
 ---
-[Retour à l’accueil](/)
+
+## 📌 1. Headings map des pages publiques
+
+Les pages publiques respectent une structure logique des titres.
+
+### Rendu Headings map
+📷 Capture d’écran de la page d'accueil:
+
+![Headings map - page accueil](/images/headings_map/homepage)
+
+📷 Capture d’écran de la page d'aide:
+
+![Headings map - page ...](/images/headings_map/helper)
+
+### Analyse
+...
+
+---
+
+## 📌 2. Validation du code HTML (Total Validator)
+
+Les pages ont été testées avec l’outil Total Validator.
+
+### Résultats de validation
+
+📷 Capture d’écran du résultat global :
+
+![Validation HTML - global](/images/...)
+
+📷 Capture d’écran détails erreurs (si applicable) :
+
+![Validation HTML - détails](/images/...)
+
+### Conclusion
+...
+
+---
+
+## 📌 3. Bonnes pratiques et sémantique HTML
+
+Le projet respecte les bonnes pratiques suivantes :
+
+- Utilisation de balises sémantiques (`header`, `main`, `section`, `article`)
+- Hiérarchie correcte des titres
+- Séparation claire contenu / structure
+
+### HTML checklist
+📷 Résultat checklist :
+
+![HTML checklist](/images/...)
+
+### Commentaires
+...
+
+---
+
+## 📌 4. Microdata (schema.org)
+
+Certaines pages utilisent des microdonnées pour enrichir le contenu.
+
+### Exemple de microdata utilisée
+```html
+...
