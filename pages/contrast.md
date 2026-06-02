@@ -16,5 +16,4 @@ permalink: /contrast/
 ## Conclusion
 Améliorations apportées si nécessaire.
 ---
-
-👉 [⬅ Retour à l’accueil](/)
+[Retour à l’accueil](/)
