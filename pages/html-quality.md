@@ -21,7 +21,7 @@ Les pages publiques respectent une structure logique des titres.
 
 📷 Capture d’écran de la page d'aide:
 
-![Headings map - page ...](/images/headings_map/helper)
+![Headings map - page ...](/images/headings_map_helper.png)
 
 ### Analyse
 ...
