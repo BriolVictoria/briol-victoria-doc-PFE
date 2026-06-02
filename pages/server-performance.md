@@ -119,4 +119,4 @@ L'analyse des performances serveur montre un comportement globalement stable et 
 
 ---
 
-👉 [⬅ Retour à l'accueil](/)
+[Retour à l'accueil](/)
