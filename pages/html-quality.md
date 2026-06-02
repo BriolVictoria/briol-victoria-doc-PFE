@@ -99,5 +99,5 @@ Certaines pages utilisent des microdonnées pour enrichir le contenu.
 
 📷 Capture d’écran du résultat global :
 
-[Microdata - page aide](/images/microdata_helper.png)
+![Microdata - page aide](/images/microdata_helper.png)
 ...
