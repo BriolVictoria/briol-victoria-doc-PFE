@@ -21,3 +21,6 @@ permalink: /tests/
 - Taux de réussite
 
 📌 Captures ou logs CI/CD
+
+---
+[Retour à l’accueil](/)
