@@ -17,7 +17,7 @@ Les pages publiques respectent une structure logique des titres.
 ### Rendu Headings map
 📷 Capture d’écran de la page d'accueil:
 
-![Headings map - page accueil](/images/headings_map/homepage)
+![Headings map - page accueil](/images/headings_map_homepage.png)
 
 📷 Capture d’écran de la page d'aide:
 
