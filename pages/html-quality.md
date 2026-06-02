@@ -80,11 +80,11 @@ Le développement du projet s'appuie sur les recommandations de la HTML Checklis
 
 ---
 
-## 4. Utilisation des microdonnées
+## 4. Utilisation des microdatas
 
-Une page utilise des microdonnées Schema.org afin d'améliorer la compréhension du contenu par les moteurs de recherche.
+Une page utilise des microdatas Schema.org afin d'améliorer la compréhension du contenu par les moteurs de recherche.
 
-### Exemple d'implémentation
+### Implémentation
 
 ```html
 @props([
@@ -126,7 +126,7 @@ Une page utilise des microdonnées Schema.org afin d'améliorer la compréhensio
 
 <img src="/images/microdata_helper.png" alt="Validation Microdata" width="800">
 
-*Figure 6 — Vérification des microdonnées de la page d'aide.*
+*Figure 6 — Vérification des microdatas de la page d'aide.*
 
 ### Conclusion
 
