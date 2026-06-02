@@ -6,34 +6,50 @@ permalink: /contrast/
 
 # Rapport de contraste
 
-Ce document présente les vérifications de contraste réalisées sur l'application.
-
-L'objectif est de s'assurer que les couleurs utilisées respectent les recommandations d'accessibilité et garantissent une bonne lisibilité du contenu.
+Cette page présente les vérifications de contraste réalisées sur l'application afin de garantir une bonne lisibilité du contenu et le respect des recommandations d'accessibilité.
 
 ---
 
 ## Outil utilisé
 
-Outil :
+Les contrastes ont été vérifiés à l'aide du service suivant :
 
 ```text
 https://webaim.org/resources/contrastchecker/
 ```
+
+Cet outil permet de vérifier la conformité des contrastes de couleurs selon les critères WCAG (Web Content Accessibility Guidelines).
+
 ---
 
-## Résultats
+## Vérification des contrastes
 
-### Capture du rapport
+Les principales combinaisons de couleurs utilisées dans l'interface ont été analysées afin de s'assurer qu'elles offrent un niveau de contraste suffisant pour tous les utilisateurs.
 
-![Rapport de contraste](/images/contrast_checker.png)
+### Résultat de l'analyse
 
+<img src="/images/contrast_checker.png" alt="Rapport de contraste" width="800">
+
+*Figure 1 — Résultat de la vérification des contrastes avec WebAIM Contrast Checker.*
+
+---
+
+## Observations
+
+Les vérifications effectuées montrent que :
+
+- les textes restent lisibles sur leurs arrière-plans respectifs ;
+- les couleurs respectent les recommandations d'accessibilité applicables ;
+- les contrastes sont suffisants pour garantir une lecture confortable du contenu.
+
+---
 
 ## Conclusion
 
-Les contrastes utilisés dans l'application permettent une lecture confortable du contenu.
+L'analyse réalisée confirme que les contrastes utilisés dans l'application répondent aux exigences d'accessibilité et assurent une bonne expérience de lecture pour les utilisateurs.
 
-Les éventuels problèmes identifiés ont été corrigés afin d'améliorer l'accessibilité du site.
+Les éventuels problèmes détectés durant le développement ont été corrigés afin d'améliorer la conformité du projet aux recommandations WCAG.
 
 ---
 
-[Retour à l'accueil](/)
+👉 [⬅ Retour à l'accueil](/)
