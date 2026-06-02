@@ -22,3 +22,5 @@ permalink: /html-quality/
 ## 5. Images
 - Optimisation des images
 - Utilisation de `srcset` pour responsive images
+---
+[Retour à l’accueil](/)
