@@ -18,3 +18,5 @@ permalink: /js-enhancements/
 
 ## Impact UX
 Amélioration de la fluidité et de l’accessibilité.
+---
+[Retour à l’accueil](/)
