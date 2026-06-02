@@ -17,3 +17,5 @@ permalink: /lighthouse/
 
 ## Analyse
 Commentaires sur les points forts et axes d’amélioration.
+---
+[Retour à l’accueil](/)
