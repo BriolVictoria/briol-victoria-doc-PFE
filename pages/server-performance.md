@@ -15,3 +15,6 @@ permalink: /server-performance/
 
 ## Analyse
 Temps de réponse, requêtes SQL, optimisation.
+
+---
+[Retour à l’accueil](/)
