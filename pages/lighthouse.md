@@ -128,4 +128,4 @@ Des optimisations restent possibles, notamment sur certaines pages de l'administ
 
 ---
 
-👉 [⬅ Retour à l’accueil](/)
+[Retour à l’accueil](/)
