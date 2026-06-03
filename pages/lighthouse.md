@@ -97,7 +97,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_dasboard.png" alt="Lighthouse admin dashboard" width="800">
+<img src="/images/lighthouse_admin_dashboard.png" alt="Lighthouse admin dashboard" width="800">
 
 ---
 
