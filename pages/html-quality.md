@@ -56,27 +56,71 @@ Les pages du site ont été analysées à l'aide de l'outil **Total Validator** 
 
 ---
 
-## 3. Respect des bonnes pratiques HTML
+## 3. Respect des bonnes pratiques HTML et sémantique
 
-Le développement du projet s'appuie sur les recommandations de la HTML Checklist et sur les bonnes pratiques du Web moderne.
+Le développement du projet a été réalisé en respectant les bonnes pratiques HTML modernes ainsi que les recommandations de structuration sémantique.
 
-### Éléments mis en œuvre
+L’objectif est de garantir un code lisible, accessible et maintenable.
 
-- Utilisation de balises sémantiques (`header`, `main`, `section`, `article`, `footer`) ;
-- Hiérarchie correcte des titres ;
-- Utilisation appropriée des formulaires et de leurs libellés ;
-- Séparation entre structure, présentation et comportement ;
-- Respect des principes d'accessibilité.
+---
 
-### Vérification à l'aide de la HTML Checklist
+### Structure sémantique du projet
 
-<img src="/images/..." alt="HTML Checklist" width="800">
+Le projet repose sur une utilisation systématique des balises sémantiques HTML :
 
-*Figure 5 — Résultat de la vérification de la HTML Checklist.*
+- `<header>` : en-tête et navigation principale
+- `<main>` : contenu principal des pages
+- `<section>` : découpage logique des contenus
+- `<footer>` : informations de fin de page
+
+Cette organisation améliore la compréhension du code et facilite l’accessibilité.
+
+---
+
+### Hiérarchie des titres
+
+Une attention particulière a été portée à la hiérarchie des titres :
+
+- un seul `<h1>` par page ;
+- utilisation cohérente des `<h2>`, `<h3>`, etc. ;
+- structure logique respectant le contenu.
+
+Cela permet une meilleure navigation, notamment pour les lecteurs d’écran.
+
+---
+
+### Accessibilité et bonnes pratiques
+
+Plusieurs règles essentielles ont été respectées :
+
+- utilisation systématique des attributs `alt` pour les images ;
+- association correcte des labels aux champs de formulaires ;
+- navigation possible au clavier ;
+- structure HTML cohérente et lisible ;
+- séparation claire entre structure et présentation.
+
+---
+
+### Analyse
+
+Les résultats montrent que :
+
+- la structure HTML est cohérente ;
+- les éléments sémantiques sont correctement utilisés ;
+- les règles d’accessibilité principales sont respectées ;
+- le code reste lisible et maintenable.
+
+---
 
 ### Conclusion
 
-...
+Le projet respecte globalement les bonnes pratiques HTML modernes.
+
+Ces choix permettent d’améliorer :
+- l’accessibilité ;
+- la maintenabilité ;
+- le référencement naturel ;
+- la qualité globale du code.
 
 ---
 
