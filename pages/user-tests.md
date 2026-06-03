@@ -20,7 +20,7 @@ Durant chaque session, les utilisateurs étaient invités à réaliser plusieurs
 
 ### Utilisateur 1
 
-- Étudiante, utilisation rapide
+- Étudiante, utilisation rapide de l'application
 
 ### Utilisateur 2
 
@@ -82,13 +82,13 @@ Lien vers la vidéo :
 
 | Utilisateur | Résultat |
 |------------|-----------|
-| Utilisateur 1 | Réussite / Difficultés |
+| Utilisateur 1 | Réussite |
 | Utilisateur 2 | Réussite / Difficultés |
 | Utilisateur 3 | Réussite / Difficultés |
 
 ### Observations
 
-- ...
+- Utilisateur 1 => Compréhension et mise en exécution de la tâche rapides
 - ...
 - ...
 
@@ -110,13 +110,13 @@ Lien vers la vidéo :
 
 | Utilisateur | Résultat |
 |------------|-----------|
-| Utilisateur 1 | Réussite / Difficultés |
+| Utilisateur 1 | Réussite  |
 | Utilisateur 2 | Réussite / Difficultés |
 | Utilisateur 3 | Réussite / Difficultés |
 
 ### Observations
 
-- ...
+- Utilisateur 1 => Facilité dans l'exécution
 - ...
 - ...
 
@@ -138,13 +138,13 @@ Lien vers la vidéo :
 
 | Utilisateur | Résultat |
 |------------|-----------|
-| Utilisateur 1 | Réussite / Difficultés |
+| Utilisateur 1 | Réussite |
 | Utilisateur 2 | Réussite / Difficultés |
 | Utilisateur 3 | Réussite / Difficultés |
 
 ### Observations
 
-- ...
+- Utilisateur 1 => Création de la tenue rapidement sans prise de tête
 - ...
 - ...
 
@@ -166,13 +166,13 @@ Lien vers la vidéo :
 
 | Utilisateur | Résultat |
 |------------|-----------|
-| Utilisateur 1 | Réussite / Difficultés |
+| Utilisateur 1 | Réussite |
 | Utilisateur 2 | Réussite / Difficultés |
 | Utilisateur 3 | Réussite / Difficultés |
 
 ### Observations
 
-- ...
+- Utilisateur 1 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône)
 - ...
 - ...
 
@@ -194,13 +194,13 @@ Lien vers la vidéo :
 
 | Utilisateur | Résultat |
 |------------|-----------|
-| Utilisateur 1 | Réussite / Difficultés |
+| Utilisateur 1 | Réussite |
 | Utilisateur 2 | Réussite / Difficultés |
 | Utilisateur 3 | Réussite / Difficultés |
 
 ### Observations
 
-- ...
+- Utilisateur 1 => Vision de l'onglet et le changement de garde-robe rapide
 - ...
 - ...
 
