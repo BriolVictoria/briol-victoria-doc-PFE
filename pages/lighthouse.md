@@ -314,6 +314,22 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ---
 
+## Page Settings
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_settings.png" alt="Lighthouse admin clothes settings" width="800">
+
+---
+
+### Scores
+
+- Performance : 91
+- Accessibilité : 90
+- Best Practices : ...
+- SEO : 91
+
+---
 
 ### Synthèse globale
 
