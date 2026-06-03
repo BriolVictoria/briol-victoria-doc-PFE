@@ -30,8 +30,8 @@ Deux pages principales ont été analysées côté utilisateur.
 
 - Performance : 91
 - Accessibilité : 100
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
@@ -47,8 +47,8 @@ Deux pages principales ont été analysées côté utilisateur.
 
 - Performance : 92
 - Accessibilité : 100
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
@@ -71,8 +71,8 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 90
 - Accessibilité : 93
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
@@ -88,8 +88,8 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 91
 - Accessibilité : 93
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
@@ -105,8 +105,8 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 98
 - Accessibilité : 95
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
@@ -122,8 +122,8 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 92
 - Accessibilité : 100
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
@@ -139,8 +139,8 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 93
 - Accessibilité : 96
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
@@ -156,8 +156,8 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 93
 - Accessibilité : 96
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
@@ -173,8 +173,8 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 92
 - Accessibilité : 100
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
@@ -190,8 +190,8 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 99
 - Accessibilité : 95
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
@@ -207,8 +207,8 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 92
 - Accessibilité : 93
-- SEO : ...
-- Best Practices : 91
+- Best Practices : ...
+- SEO : 91
 
 ---
 
