@@ -53,7 +53,7 @@ Les sessions ont été enregistrées sous forme de screencasts avec commentaires
 Lien vers la vidéo :
 
 ```text
-...
+https://youtu.be/NuC9m7riQ60
 ```
 
 ### Utilisateur 2
