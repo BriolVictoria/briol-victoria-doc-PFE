@@ -59,55 +59,159 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ---
 
-## Page admin principale
+## Page Login
 
 ### Résultats globaux
 
-<img src="/images/lighthouse-admin-1.png" alt="Lighthouse admin page 1" width="800">
+<img src="/images/lighthouse_admin_login.png" alt="Lighthouse admin login" width="800">
 
 ---
 
 ### Scores
 
-- Performance : ...
-- Accessibilité : ...
-- Best Practices : ...
-- SEO : N/A
+- Performance : 90
+- Accessibilité : 193
+- SEO : ...
+- Best Practices : 91
 
 ---
 
-### Analyse
-
-...
-
----
-
-## Page admin secondaire
+## Page Register
 
 ### Résultats globaux
 
-<img src="/images/lighthouse-admin-2.png" alt="Lighthouse admin page 2" width="800">
+<img src="/images/lighthouse_admin_register.png" alt="Lighthouse admin register" width="800">
 
 ---
 
 ### Scores
 
-- Performance : ...
-- Accessibilité : ...
-- Best Practices : ...
-- SEO : N/A
+- Performance : 91
+- Accessibilité : 93
+- SEO : ...
+- Best Practices : 91
 
 ---
 
-## Autres pages admin
+## Page Dashboard
 
-D'autres pages ont également été analysées :
+### Résultats globaux
 
-- ...
-- ...
-- ...
-- ...
-- ...
+<img src="/images/lighthouse_admin_dasboard.png" alt="Lighthouse admin dashboard" width="800">
+
+---
+
+### Scores
+
+- Performance : 98
+- Accessibilité : 95
+- SEO : ...
+- Best Practices : 91
+
+---
+
+## Page Clothes-Show
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_clothes_show.png" alt="Lighthouse admin clothes show" width="800">
+
+---
+
+### Scores
+
+- Performance : 92
+- Accessibilité : 100
+- SEO : ...
+- Best Practices : 91
+
+---
+
+## Page Closet-Create
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_closet_create.png" alt="Lighthouse admin closet create" width="800">
+
+---
+
+### Scores
+
+- Performance : 93
+- Accessibilité : 96
+- SEO : ...
+- Best Practices : 91
+
+---
+
+## Page Closet-Edit
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_closet_edit.png" alt="Lighthouse admin closet edit" width="800">
+
+---
+
+### Scores
+
+- Performance : 93
+- Accessibilité : 96
+- SEO : ...
+- Best Practices : 91
+
+---
+
+## Page closet-Show
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_closet_show.png" alt="Lighthouse admin closet show" width="800">
+
+---
+
+### Scores
+
+- Performance : 92
+- Accessibilité : 100
+- SEO : ...
+- Best Practices : 91
+
+---
+
+## Page Closet-Index
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_closet_index.png" alt="Lighthouse admin closet index" width="800">
+
+---
+
+### Scores
+
+- Performance : 99
+- Accessibilité : 95
+- SEO : ...
+- Best Practices : 91
+
+---
+
+## Page Statistics
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_statistics.png" alt="Lighthouse admin statistics" width="800">
+
+---
+
+### Scores
+
+- Performance : 92
+- Accessibilité : 93
+- SEO : ...
+- Best Practices : 91
+
+---
+
 
 ### Synthèse globale
 
