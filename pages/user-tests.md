@@ -94,7 +94,9 @@ Lien vers la vidéo :
 
 ### Capture d'écran
 
-<img src="/images/user-test-task-1.png" alt="Tâche 1" width="800">
+<img src="/images/add_clothe" alt="Tâche 1" width="800">
+
+*Figure 1 — Image de la première tâche sur le site My Closet.*
 
 ### Conclusion
 
@@ -118,6 +120,12 @@ Lien vers la vidéo :
 - ...
 - ...
 
+### Capture d'écran
+
+<img src="/images/filter_clothe" alt="Tâche 2" width="800">
+
+*Figure 1 — Image de la deuxième tâche sur le site My Closet.*
+
 ### Conclusion
 
 ...
@@ -139,6 +147,12 @@ Lien vers la vidéo :
 - ...
 - ...
 - ...
+
+### Capture d'écran
+
+<img src="/images/add_outfit" alt="Tâche 3" width="800">
+
+*Figure 1 — Image de la troisième tâche sur le site My Closet.*
 
 ### Conclusion
 
@@ -162,6 +176,12 @@ Lien vers la vidéo :
 - ...
 - ...
 
+### Capture d'écran
+
+<img src="/images/edit_status" alt="Tâche 4" width="800">
+
+*Figure 1 — Image de la quatrième tâche sur le site My Closet.*
+
 ### Conclusion
 
 ...
@@ -183,6 +203,12 @@ Lien vers la vidéo :
 - ...
 - ...
 - ...
+
+### Capture d'écran
+
+<img src="/images/navigate_closet" alt="Tâche 5" width="800">
+
+*Figure 1 — Image de la cinquième tâche sur le site My Closet.*
 
 ### Conclusion
 
