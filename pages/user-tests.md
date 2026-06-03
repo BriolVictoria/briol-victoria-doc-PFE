@@ -61,7 +61,7 @@ https://youtu.be/NuC9m7riQ60
 Lien vers la vidéo :
 
 ```text
-...
+https://youtu.be/tOqNBf0AZ3w
 ```
 
 ### Utilisateur 3
@@ -83,14 +83,14 @@ Lien vers la vidéo :
 | Utilisateur | Résultat |
 |------------|-----------|
 | Utilisateur 1 | Réussite |
-| Utilisateur 2 | Réussite / Difficultés |
+| Utilisateur 2 | Réussite |
 | Utilisateur 3 | Réussite / Difficultés |
 
 ### Observations
 
 - Utilisateur 1 => Compréhension et mise en exécution de la tâche rapides
-- ...
-- ...
+- 
+- Utilisateur 3 => Compréhension de la tâche. Prend le temps de mettre les bonne infos
 
 ### Capture d'écran
 
@@ -111,14 +111,14 @@ Lien vers la vidéo :
 | Utilisateur | Résultat |
 |------------|-----------|
 | Utilisateur 1 | Réussite  |
-| Utilisateur 2 | Réussite / Difficultés |
+| Utilisateur 2 | Réussite  |
 | Utilisateur 3 | Réussite / Difficultés |
 
 ### Observations
 
 - Utilisateur 1 => Facilité dans l'exécution
 - ...
-- ...
+- Utilisateur 3 => Comprend où se trouve les filtres et obtient la réponse facilement
 
 ### Capture d'écran
 
@@ -139,15 +139,15 @@ Lien vers la vidéo :
 | Utilisateur | Résultat |
 |------------|-----------|
 | Utilisateur 1 | Réussite |
-| Utilisateur 2 | Réussite / Difficultés |
+| Utilisateur 2 | Réussite |
 | Utilisateur 3 | Réussite / Difficultés |
 
 ### Observations
 
 - Utilisateur 1 => Création de la tenue rapidement sans prise de tête
 - ...
-- ...
-
+- Utilisateur 3 => La tenue est créer avec soin. Tâches exécuté rapidement
+  
 ### Capture d'écran
 
 <img src="/images/add_outfit.png" alt="Tâche 3" width="800">
@@ -167,14 +167,14 @@ Lien vers la vidéo :
 | Utilisateur | Résultat |
 |------------|-----------|
 | Utilisateur 1 | Réussite |
-| Utilisateur 2 | Réussite / Difficultés |
+| Utilisateur 2 | Réussite |
 | Utilisateur 3 | Réussite / Difficultés |
 
 ### Observations
 
-- Utilisateur 1 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône)
+- Utilisateur 1 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
 - ...
-- ...
+- Utilisateur 3 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
 
 ### Capture d'écran
 
@@ -196,13 +196,13 @@ Lien vers la vidéo :
 |------------|-----------|
 | Utilisateur 1 | Réussite |
 | Utilisateur 2 | Réussite / Difficultés |
-| Utilisateur 3 | Réussite / Difficultés |
+| Utilisateur 3 | Réussite |
 
 ### Observations
 
 - Utilisateur 1 => Vision de l'onglet et le changement de garde-robe rapide
 - ...
-- ...
+- Utilisateur 3 => Recherche de l'onglet dans l'application, et changement de garde-robe rapide
 
 ### Capture d'écran
 
