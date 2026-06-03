@@ -24,11 +24,11 @@ Durant chaque session, les utilisateurs étaient invités à réaliser plusieurs
 
 ### Utilisateur 2
 
-- Peu intéressé par la mode, veut que ça aille vite
+- Parent, qui doit gérer plusieurs choses à la fois et voulant organiser son quotidien
 
 ### Utilisateur 3
 
-- Parent, qui gére plusieurs choses à la fois
+- Peu intéressé par la mode, veut que ça aille vite
 
 ---
 
@@ -61,7 +61,7 @@ https://youtu.be/NuC9m7riQ60
 Lien vers la vidéo :
 
 ```text
-
+https://youtu.be/tOqNBf0AZ3w
 ```
 
 ### Utilisateur 3
@@ -69,7 +69,7 @@ Lien vers la vidéo :
 Lien vers la vidéo :
 
 ```text
-https://youtu.be/tOqNBf0AZ3w
+
 ```
 
 ---
@@ -89,8 +89,8 @@ https://youtu.be/tOqNBf0AZ3w
 ### Observations
 
 - Utilisateur 1 => Compréhension et mise en exécution de la tâche rapides
+- Utilisateur 2 => Compréhension de la tâche. Prend le temps de mettre les bonne infos
 - 
-- Utilisateur 3 => Compréhension de la tâche. Prend le temps de mettre les bonne infos
 
 ### Capture d'écran
 
@@ -117,8 +117,8 @@ https://youtu.be/tOqNBf0AZ3w
 ### Observations
 
 - Utilisateur 1 => Facilité dans l'exécution
-- ...
-- Utilisateur 3 => Comprend où se trouve les filtres et obtient la réponse facilement
+- Utilisateur 2 => Comprend où se trouve les filtres et obtient la réponse facilement
+- 
 
 ### Capture d'écran
 
@@ -145,8 +145,8 @@ https://youtu.be/tOqNBf0AZ3w
 ### Observations
 
 - Utilisateur 1 => Création de la tenue rapidement sans prise de tête
-- ...
-- Utilisateur 3 => La tenue est créer avec soin. Tâches exécuté rapidement
+- Utilisateur 2 => La tenue est créer avec soin. Tâches exécuté rapidement
+- 
   
 ### Capture d'écran
 
@@ -173,8 +173,8 @@ https://youtu.be/tOqNBf0AZ3w
 ### Observations
 
 - Utilisateur 1 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
-- ...
-- Utilisateur 3 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
+- Utilisateur 2 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
+- 
 
 ### Capture d'écran
 
@@ -196,13 +196,13 @@ https://youtu.be/tOqNBf0AZ3w
 |------------|-----------|
 | Utilisateur 1 | Réussite |
 | Utilisateur 2 | Réussite / Difficultés |
-| Utilisateur 3 | Réussite |
+| Utilisateur 3 | Réussite / Difficultés |
 
 ### Observations
 
 - Utilisateur 1 => Vision de l'onglet et le changement de garde-robe rapide
-- ...
-- Utilisateur 3 => Recherche de l'onglet dans l'application, et changement de garde-robe rapide
+- Utilisateur 2 => Recherche de l'onglet dans l'application, et changement de garde-robe rapide
+- 
 
 ### Capture d'écran
 
