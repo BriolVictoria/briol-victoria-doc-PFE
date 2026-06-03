@@ -4,119 +4,112 @@ title: "Performance serveur"
 permalink: /server-performance/
 ---
 
-# Performance serveur
+# Performance côté serveur
 
-Ce document présente l'analyse des performances serveur de l'application à l'aide des outils Laravel Debugbar et Laravel Telescope.
+Ce document présente l’analyse des performances côté serveur de l’application.
 
-L'objectif est d'évaluer les temps de réponse, les requêtes SQL et le comportement global de l'application côté backend.
-
----
-
-# 1. Outils utilisés
-
-Les outils suivants ont été utilisés pour analyser les performances serveur :
-
-- Laravel Debugbar : analyse des requêtes et du temps d'exécution
-- Laravel Telescope : suivi des requêtes, jobs, exceptions et événements
+L’objectif est d’évaluer le comportement du backend en termes de temps de réponse, de requêtes SQL et de charge globale.
 
 ---
 
-# 2. Analyse avec Laravel Debugbar
+# 1. Outils d’analyse
 
-## Aperçu global
+Deux outils principaux sont associés à l’analyse des performances Laravel :
 
-<img src="/images/debugbar-overview.png" alt="Laravel Debugbar aperçu" width="800">
+## Laravel Debugbar
+
+Laravel Debugbar
+
+Cet outil a été utilisé dans le projet pour :
+
+- analyser les temps de réponse des requêtes ;
+- observer les requêtes SQL exécutées ;
+- vérifier les performances globales des pages ;
+- identifier les éventuelles requêtes coûteuses.
+
+---
+
+## Laravel Telescope
+
+Laravel Telescope
+
+Telescope est un outil de monitoring serveur permettant d’observer :
+
+- les requêtes HTTP ;
+- les requêtes SQL ;
+- les jobs et queues ;
+- les exceptions ;
+- les logs applicatifs.
+
+Dans ce projet, il est présenté comme un outil de référence pour le monitoring backend, même si l’analyse principale a été réalisée avec Debugbar.
+
+---
+
+# 2. Analyse des performances avec Debugbar
+
+## Vue globale
+
+<img src="/images/debugbar-overview.png" alt="Vue Debugbar" width="800">
 
 ---
 
 ## Temps de réponse
 
-Les temps de réponse observés restent globalement :
+L’analyse des temps de réponse montre que :
 
-- ...
-- ...
-- ...
+- les pages publiques restent rapides ;
+- les pages dynamiques présentent un léger surcoût logique ;
+- les performances restent globalement stables.
 
 ---
 
 ## Requêtes SQL
 
-L'analyse des requêtes SQL permet de mettre en évidence :
-
-- le nombre total de requêtes exécutées ;
-- les éventuelles requêtes répétées ;
-- les optimisations possibles.
-
-### Capture des requêtes
-
 <img src="/images/debugbar-queries.png" alt="Requêtes SQL Debugbar" width="800">
+
+---
+
+Les observations principales :
+
+- nombre de requêtes globalement maîtrisé ;
+- présence de quelques requêtes répétées ;
+- absence de requêtes bloquantes majeures.
 
 ---
 
 ## Conclusion Debugbar
 
-...
+L’analyse via Debugbar confirme que l’application présente de bonnes performances globales côté serveur.
 
 ---
 
-# 3. Analyse avec Laravel Telescope
+# 3. Analyse globale des performances
 
-## Vue générale
+Les performances du backend sont globalement satisfaisantes :
 
-<img src="/images/telescope-overview.png" alt="Laravel Telescope aperçu" width="800">
-
----
-
-## Observations principales
-
-L'analyse via Telescope permet d'observer :
-
-- les requêtes HTTP ;
-- les requêtes base de données ;
-- les jobs exécutés ;
-- les éventuelles erreurs ou exceptions.
+- temps de réponse corrects ;
+- requêtes SQL maîtrisées ;
+- architecture Laravel cohérente ;
+- séparation logique des responsabilités respectée.
 
 ---
 
-## Détails des requêtes
+# 4. Pistes d’amélioration
 
-<img src="/images/telescope-queries.png" alt="Requêtes Telescope" width="800">
+Certaines optimisations peuvent être envisagées :
 
----
-
-## Gestion des jobs et événements
-
-...
+- réduction des requêtes répétitives (optimisation Eloquent) ;
+- mise en cache de certaines données statiques ;
+- optimisation des relations chargées (eager loading).
 
 ---
 
-## Conclusion Telescope
+# Conclusion
 
-...
+L’analyse des performances serveur met en évidence un backend stable et performant.
 
----
-
-# 4. Synthèse globale des performances
-
-Dans l'ensemble, l'application présente :
-
-- des temps de réponse globalement satisfaisants ;
-- une gestion correcte des requêtes SQL ;
-- une architecture serveur cohérente ;
-- des pistes d'optimisation sur certaines requêtes répétitives.
-
-Des améliorations peuvent être envisagées sur :
-
-- la réduction du nombre de requêtes ;
-- l'optimisation des requêtes complexes ;
-- la mise en cache de certaines données.
+L’utilisation de Laravel Debugbar a permis d’identifier les comportements de l’application en conditions réelles, tandis que Laravel Telescope est un outil complémentaire permettant un monitoring avancé des applications Laravel.
 
 ---
 
-# Conclusion générale
-
-L'analyse des performances serveur montre un comportement globalement stable et conforme aux attentes d'une application web moderne utilisant Laravel.
-
----
-
-[Retour à l'accueil](/)
+👉 [⬅ Retour à l'accueil](/)
