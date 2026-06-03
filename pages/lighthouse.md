@@ -70,7 +70,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 ### Scores
 
 - Performance : 90
-- Accessibilité : 193
+- Accessibilité : 93
 - SEO : ...
 - Best Practices : 91
 
