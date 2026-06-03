@@ -61,7 +61,7 @@ https://youtu.be/NuC9m7riQ60
 Lien vers la vidéo :
 
 ```text
-https://youtu.be/tOqNBf0AZ3w
+
 ```
 
 ### Utilisateur 3
@@ -69,7 +69,7 @@ https://youtu.be/tOqNBf0AZ3w
 Lien vers la vidéo :
 
 ```text
-...
+https://youtu.be/tOqNBf0AZ3w
 ```
 
 ---
