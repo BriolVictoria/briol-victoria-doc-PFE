@@ -90,4 +90,4 @@ L'observation des requêtes SQL, des vues et de l'utilisation mémoire a permis 
 
 ---
 
-👉 [⬅ Retour à l'accueil](/)
+[Retour à l'accueil](/)
