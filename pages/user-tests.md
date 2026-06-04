@@ -28,7 +28,7 @@ Durant chaque session, les utilisateurs étaient invités à réaliser plusieurs
 
 ### Utilisateur 3
 
-- Peu intéressé par la mode, veut que ça aille vite
+- Étudiant, peu intéressé par la mode, voulant faire les choses vite pour ne pas perdre du temps
 
 ---
 
@@ -84,13 +84,13 @@ Lien vers la vidéo :
 |------------|-----------|
 | Utilisateur 1 | Réussite |
 | Utilisateur 2 | Réussite |
-| Utilisateur 3 | Réussite / Difficultés |
+| Utilisateur 3 | Réussite |
 
 ### Observations
 
 - Utilisateur 1 => Compréhension et mise en exécution de la tâche rapides
 - Utilisateur 2 => Compréhension de la tâche. Prend le temps de mettre les bonne infos
-- 
+- Utilisateur 3 => Compréhension de la tâche rapidement et ajout de certains éléments efficace
 
 ### Capture d'écran
 
@@ -112,13 +112,13 @@ Lien vers la vidéo :
 |------------|-----------|
 | Utilisateur 1 | Réussite  |
 | Utilisateur 2 | Réussite  |
-| Utilisateur 3 | Réussite / Difficultés |
+| Utilisateur 3 | Réussite  |
 
 ### Observations
 
 - Utilisateur 1 => Facilité dans l'exécution
 - Utilisateur 2 => Comprend où se trouve les filtres et obtient la réponse facilement
-- 
+- Utilisateur 3 => Facilité dans l'exécution
 
 ### Capture d'écran
 
@@ -140,13 +140,13 @@ Lien vers la vidéo :
 |------------|-----------|
 | Utilisateur 1 | Réussite |
 | Utilisateur 2 | Réussite |
-| Utilisateur 3 | Réussite / Difficultés |
+| Utilisateur 3 | Réussite |
 
 ### Observations
 
 - Utilisateur 1 => Création de la tenue rapidement sans prise de tête
 - Utilisateur 2 => La tenue est créer avec soin. Tâches exécuté rapidement
-- 
+- Utilisateur 3 => Création de la tenue rapidement sans prise de tête. Ajout de certains élément efficace
   
 ### Capture d'écran
 
@@ -168,13 +168,13 @@ Lien vers la vidéo :
 |------------|-----------|
 | Utilisateur 1 | Réussite |
 | Utilisateur 2 | Réussite |
-| Utilisateur 3 | Réussite / Difficultés |
+| Utilisateur 3 | Réussite |
 
 ### Observations
 
 - Utilisateur 1 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
 - Utilisateur 2 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
-- 
+- Utilisateur 3 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
 
 ### Capture d'écran
 
@@ -195,14 +195,14 @@ Lien vers la vidéo :
 | Utilisateur | Résultat |
 |------------|-----------|
 | Utilisateur 1 | Réussite |
-| Utilisateur 2 | Réussite / Difficultés |
-| Utilisateur 3 | Réussite / Difficultés |
+| Utilisateur 2 | Réussite |
+| Utilisateur 3 | Réussite |
 
 ### Observations
 
 - Utilisateur 1 => Vision de l'onglet et le changement de garde-robe rapide
 - Utilisateur 2 => Recherche de l'onglet dans l'application, et changement de garde-robe rapide
-- 
+- Utilisateur 3 => Recherche de l'onglet dans l'application, et changement de garde-robe rapide
 
 ### Capture d'écran
 
