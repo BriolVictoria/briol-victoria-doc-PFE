@@ -100,7 +100,7 @@ https://youtu.be/3Q4E8bk4UI0
 
 ### Conclusion
 
-...
+L’ajout d’un vêtement a été réalisé avec succès par l’ensemble des utilisateurs. Le formulaire est jugé compréhensible et les informations demandées sont suffisamment claires pour permettre une saisie rapide et efficace.
 
 ---
 
@@ -124,11 +124,11 @@ https://youtu.be/3Q4E8bk4UI0
 
 <img src="/images/filter_clothe.png" alt="Tâche 2" width="800">
 
-*Figure 1 — Image de la deuxième tâche sur le site My Closet.*
+*Figure 2 — Image de la deuxième tâche sur le site My Closet.*
 
 ### Conclusion
 
-...
+La fonctionnalité de filtre est facilement identifiable et comprise par les utilisateurs. Les résultats montrent que les filtres permettent de retrouver rapidement les vêtements recherchés sans difficulté particulière.
 
 ---
 
@@ -152,11 +152,11 @@ https://youtu.be/3Q4E8bk4UI0
 
 <img src="/images/add_outfit.png" alt="Tâche 3" width="800">
 
-*Figure 1 — Image de la troisième tâche sur le site My Closet.*
+*Figure 3 — Image de la troisième tâche sur le site My Closet.*
 
 ### Conclusion
 
-...
+La création d’une tenue a été réalisée sans erreur par tous les utilisateurs. L’association de plusieurs vêtements paraît intuitive et répond aux attentes des utilisateurs en termes de simplicité et de rapidité d’utilisation.
 
 ---
 
@@ -180,11 +180,11 @@ https://youtu.be/3Q4E8bk4UI0
 
 <img src="/images/edit_status.png" alt="Tâche 4" width="800">
 
-*Figure 1 — Image de la quatrième tâche sur le site My Closet.*
+*Figure 4 — Image de la quatrième tâche sur le site My Closet.*
 
 ### Conclusion
 
-...
+Le changement de statut d’un vêtement est une fonctionnalité comprise par les utilisateurs. Par contre, les observations montrent que l’icône de modification directement présente sur la fiche n’est pas immédiatement vue. Une amélioration de sa visibilité pourrait permettre de réduire le nombre d’étapes nécessaires à cette action.
 
 ---
 
@@ -208,11 +208,11 @@ https://youtu.be/3Q4E8bk4UI0
 
 <img src="/images/navigate_closet.png" alt="Tâche 5" width="800">
 
-*Figure 1 — Image de la cinquième tâche sur le site My Closet.*
+*Figure 5 — Image de la cinquième tâche sur le site My Closet.*
 
 ### Conclusion
 
-...
+La navigation entre plusieurs garde-robes est efficace. Bien que certains utilisateurs aient pris un court instant pour localiser l’onglet correspondant, tous ont réussi à effectuer le changement rapidement une fois la fonctionnalité identifiée.
 
 ---
 
@@ -222,21 +222,15 @@ Les tests utilisateurs montrent que les principales fonctionnalités de l'applic
 
 ### Points forts identifiés
 
-- ...
-- ...
-- ...
+- Interface simple et facile à prendre en main.
+- Organisation claire des fonctionnalités de gestion des vêtements et des tenues.
+- Réalisation rapide des principales tâches sans assistance.
 
 ### Difficultés rencontrées
 
-- ...
-- ...
-- ...
-
-### Améliorations apportées suite aux tests
-
-- ...
-- ...
-- ...
+- L’icône de modification sur les fiches vêtements n’est pas immédiatement remarquée.
+- Certains utilisateurs doivent prendre un court moment pour repérer certaines options de navigation.
+- Quelques éléments d’interface pourraient être davantage mis en évidence afin d’accélérer l’exécution de certaines actions.
 
 ---
 
