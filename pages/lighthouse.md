@@ -178,11 +178,28 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ---
 
+## Page Outfit-Create
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_outfit_create.png" alt="Lighthouse admin outfit create" width="800">
+
+---
+
+### Scores
+
+- Performance : 94
+- Accessibilité : 90
+- Best Practices : ...
+- SEO : 91
+
+---
+
 ## Page Outfit-Edit
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_outfit_edit.png" alt="Lighthouse admin clothes edit" width="800">
+<img src="/images/lighthouse_admin_outfit_edit.png" alt="Lighthouse admin outfit edit" width="800">
 
 ---
 
@@ -190,6 +207,40 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 92
 - Accessibilité : 90
+- Best Practices : ...
+- SEO : 91
+
+---
+
+## Page Outfit-Index
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_outfit_index.png" alt="Lighthouse admin outfit index" width="800">
+
+---
+
+### Scores
+
+- Performance : 90
+- Accessibilité : 91
+- Best Practices : ...
+- SEO : 91
+
+---
+
+## Page Outfit-Show
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_outfit_show.png" alt="Lighthouse admin outfit show" width="800">
+
+---
+
+### Scores
+
+- Performance : 92
+- Accessibilité : 96
 - Best Practices : ...
 - SEO : 91
 
@@ -227,6 +278,23 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 - Best Practices : ...
 - SEO : 91
   
+---
+
+## Page Sorting
+
+### Résultats globaux
+
+<img src="/images/lighthouse_admin_sorting.png" alt="Lighthouse admin outfit sorting" width="800">
+
+---
+
+### Scores
+
+- Performance : 91
+- Accessibilité : 98
+- Best Practices : ...
+- SEO : 91
+
 ---
 
 ## Page Closet-Create
