@@ -195,7 +195,7 @@ Résultat : conforme
 
 ## Erreurs
 
-- Pages d’erreur personnalisées
+- Pages d’erreur
 - Gestion des erreurs serveur
 
 Résultat : conforme
