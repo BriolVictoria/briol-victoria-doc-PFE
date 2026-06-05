@@ -179,4 +179,4 @@ Cependant, ces améliorations respectent le principe de **dégradation gracieuse
 
 ---
 
-[Retour à l'accueil](/)
+[Retour à l'accueil](../)
