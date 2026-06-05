@@ -14,9 +14,7 @@ Cette page présente les vérifications de contraste réalisées sur l'applicati
 
 Les contrastes ont été vérifiés à l'aide du service suivant :
 
-```text
-https://webaim.org/resources/contrastchecker/
-```
+[WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
 Cet outil permet de vérifier la conformité des contrastes de couleurs selon les critères WCAG (Web Content Accessibility Guidelines).
 
@@ -52,4 +50,4 @@ Les éventuels problèmes détectés durant le développement ont été corrigé
 
 ---
 
-[Retour à l'accueil](/)
+[Retour à l'accueil](../)
