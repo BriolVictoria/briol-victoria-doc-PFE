@@ -10,7 +10,7 @@ Ce site regroupe l’ensemble des preuves et analyses techniques du projet.
 
 ---
 
-## Navigation test
+## Navigation 
 
 - [Qualité HTML](html-quality/)
 - [Audit Lighthouse](lighthouse/)
