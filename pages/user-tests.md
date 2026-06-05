@@ -52,25 +52,19 @@ Les sessions ont été enregistrées sous forme de screencasts avec commentaires
 
 Lien vers la vidéo :
 
-```text
-https://youtu.be/NuC9m7riQ60
-```
+[Utilisateur 1](https://webaim.org/resources/contrastchecker/)
 
 ### Utilisateur 2
 
 Lien vers la vidéo :
 
-```text
-https://youtu.be/tOqNBf0AZ3w
-```
+[Utilisateur 2](https://youtu.be/tOqNBf0AZ3w)
 
 ### Utilisateur 3
 
 Lien vers la vidéo :
 
-```text
-https://youtu.be/3Q4E8bk4UI0
-```
+[Utilisateur 3](https://youtu.be/3Q4E8bk4UI0)
 
 ---
 
@@ -94,7 +88,7 @@ https://youtu.be/3Q4E8bk4UI0
 
 ### Capture d'écran
 
-<img src="/images/add_clothe.png" alt="Tâche 1" width="800">
+<img src="../images/add_clothe.png" alt="Tâche 1" width="800">
 
 *Figure 1 — Image de la première tâche sur le site My Closet.*
 
@@ -122,7 +116,7 @@ L’ajout d’un vêtement a été réalisé avec succès par l’ensemble des u
 
 ### Capture d'écran
 
-<img src="/images/filter_clothe.png" alt="Tâche 2" width="800">
+<img src="../images/filter_clothe.png" alt="Tâche 2" width="800">
 
 *Figure 2 — Image de la deuxième tâche sur le site My Closet.*
 
@@ -150,7 +144,7 @@ La fonctionnalité de filtre est facilement identifiable et comprise par les uti
   
 ### Capture d'écran
 
-<img src="/images/add_outfit.png" alt="Tâche 3" width="800">
+<img src="../images/add_outfit.png" alt="Tâche 3" width="800">
 
 *Figure 3 — Image de la troisième tâche sur le site My Closet.*
 
@@ -178,7 +172,7 @@ La création d’une tenue a été réalisée sans erreur par tous les utilisate
 
 ### Capture d'écran
 
-<img src="/images/edit_status.png" alt="Tâche 4" width="800">
+<img src="../images/edit_status.png" alt="Tâche 4" width="800">
 
 *Figure 4 — Image de la quatrième tâche sur le site My Closet.*
 
@@ -206,7 +200,7 @@ Le changement de statut d’un vêtement est une fonctionnalité comprise par le
 
 ### Capture d'écran
 
-<img src="/images/navigate_closet.png" alt="Tâche 5" width="800">
+<img src="../images/navigate_closet.png" alt="Tâche 5" width="800">
 
 *Figure 5 — Image de la cinquième tâche sur le site My Closet.*
 
@@ -242,4 +236,4 @@ Les observations recueillies montrent que l'application répond globalement aux 
 
 ---
 
-[Retour à l'accueil](/)
+[Retour à l'accueil](../)
