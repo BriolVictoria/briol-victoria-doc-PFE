@@ -16,13 +16,13 @@ Une attention particulière a été portée à la hiérarchie des titres afin de
 
 ### Page d'accueil
 
-<img src="/images/headings_map_homepage.png" alt="Headings Map - Accueil" width="800">
+<img src="../images/headings_map_homepage.png" alt="Headings Map - Accueil" width="800">
 
 *Figure 1 — Structure des titres de la page d'accueil.*
 
 ### Page d'aide
 
-<img src="/images/headings_map_helper.png" alt="Headings Map - Aide" width="800">
+<img src="../images/headings_map_helper.png" alt="Headings Map - Aide" width="800">
 
 *Figure 2 — Structure des titres de la page d'aide.*
 
@@ -168,7 +168,7 @@ Une page utilise des microdatas Schema.org afin d'améliorer la compréhension d
 
 ### Validation
 
-<img src="/images/microdata_helper.png" alt="Validation Microdata" width="800">
+<img src="../images/microdata_helper.png" alt="Validation Microdata" width="800">
 
 *Figure 6 — Vérification des microdatas de la page d'aide.*
 
@@ -219,7 +219,7 @@ Les images responsives utilisent l'attribut `srcset` afin de proposer automatiqu
 
 ### Capture du code généré
 
-<img src="/images/srcset_images_homepage.png" alt="Exemple srcset" width="800">
+<img src="../images/srcset_images_homepage.png" alt="Exemple srcset" width="800">
 
 *Figure 7 — Utilisation de l'attribut srcset.*
 
@@ -248,4 +248,4 @@ Ces éléments contribuent à améliorer l'accessibilité, la maintenabilité et
 
 ---
 
-[Retour à l'accueil](/)
+[Retour à l'accueil](../)
