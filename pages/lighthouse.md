@@ -190,7 +190,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 - Performance : 97
 - Accessibilité : 90
-- Best Practices :96
+- Best Practices : 96
 - SEO : 100
 
 ---
@@ -331,7 +331,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ---
 
-## Page closet-Show
+## Page Closet-Show
 
 ### Résultats globaux
 
