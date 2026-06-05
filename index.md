@@ -21,6 +21,22 @@ Ce site regroupe l’ensemble des preuves et analyses techniques du projet.
 - [Tests utilisateurs](/pages/user-tests/)
 - [Améliorations JavaScript](/pages/js-enhancements/)
 
+- [Qualité HTML](html-quality/)
+
+[Audit Lighthouse](lighthouse/)
+
+[Contraste & accessibilité](contrast/)
+
+[Performance serveur](server-performance/)
+
+[Tests automatisés](tests/)
+
+[Opquast](opquast/)
+
+[Tests utilisateurs](user-tests/)
+
+[Améliorations JavaScript](js-enhancements/)
+
 ---
 
 ## Objectif du site
