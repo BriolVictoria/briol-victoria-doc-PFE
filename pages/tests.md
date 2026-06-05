@@ -100,7 +100,7 @@ L’application contient au total :
 
 ### Capture des résultats
 
-<img src="/images/tests_results.png" alt="Résultats des tests automatisés" width="800">
+<img src="../images/tests_results.png" alt="Résultats des tests automatisés" width="800">
 
 ---
 
@@ -125,4 +125,4 @@ Les tests couvrent à la fois la logique serveur et les interactions utilisateur
 
 ---
 
-[Retour à l'accueil](/)
+[Retour à l'accueil](../)
