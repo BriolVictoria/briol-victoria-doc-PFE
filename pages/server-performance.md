@@ -31,7 +31,7 @@ Cet outil permet notamment de :
 
 ### Capture d'écran
 
-<img src="/images/laravel_debugbar_overview.png" alt="Vue générale Laravel Debugbar" width="800">
+<img src="../images/laravel_debugbar_overview.png" alt="Vue générale Laravel Debugbar" width="800">
 
 *Figure 1 — Vue générale des informations fournies par Laravel Debugbar.*
 
@@ -50,7 +50,7 @@ La barre de débogage permet d'obtenir rapidement une vue d'ensemble des informa
 
 ### Capture d'écran
 
-<img src="/images/laravel_debugbar_queries.png" alt="Analyse des requêtes SQL" width="800">
+<img src="../images/laravel_debugbar_queries.png" alt="Analyse des requêtes SQL" width="800">
 
 *Figure 2 — Analyse des requêtes SQL exécutées.*
 
@@ -70,7 +70,7 @@ Les résultats montrent :
 
 ### Capture d'écran
 
-<img src="/images/laravel_debugbar_memory.png" alt="Utilisation mémoire" width="800">
+<img src="../images/laravel_debugbar_memory.png" alt="Utilisation mémoire" width="800">
 
 *Figure 3 — Utilisation mémoire observée via Debugbar.*
 
@@ -90,4 +90,4 @@ L'observation des requêtes SQL, des vues et de l'utilisation mémoire a permis 
 
 ---
 
-[Retour à l'accueil](/)
+[Retour à l'accueil](../)
