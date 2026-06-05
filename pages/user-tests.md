@@ -52,7 +52,7 @@ Les sessions ont été enregistrées sous forme de screencasts avec commentaires
 
 Lien vers la vidéo :
 
-[Utilisateur 1](https://webaim.org/resources/contrastchecker/)
+[Utilisateur 1](https://youtu.be/NuC9m7riQ60)
 
 ### Utilisateur 2
 
