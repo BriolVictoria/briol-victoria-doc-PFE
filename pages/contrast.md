@@ -28,7 +28,7 @@ Les principales combinaisons de couleurs utilisées dans l'interface ont été a
 
 ### Résultat de l'analyse
 
-<img src="/images/contrast_checker.png" alt="Rapport de contraste" width="800">
+<img src="../images/contrast_checker.png" alt="Rapport de contraste" width="800">
 
 *Figure 1 — Résultat de la vérification des contrastes avec WebAIM Contrast Checker.*
 
