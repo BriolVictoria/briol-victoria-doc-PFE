@@ -22,7 +22,7 @@ Deux pages principales ont été analysées côté utilisateur.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_homepage.png" alt="Lighthouse public homepage" width="800">
+<img src="../images/lighthouse_homepage.png" alt="Lighthouse public homepage" width="800">
 
 ---
 
@@ -39,7 +39,7 @@ Deux pages principales ont été analysées côté utilisateur.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_helper.png" alt="Lighthouse public helper" width="800">
+<img src="../images/lighthouse_helper.png" alt="Lighthouse public helper" width="800">
 
 ---
 
@@ -63,7 +63,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_login.png" alt="Lighthouse admin login" width="800">
+<img src="../images/lighthouse_admin_login.png" alt="Lighthouse admin login" width="800">
 
 ---
 
@@ -80,7 +80,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_register.png" alt="Lighthouse admin register" width="800">
+<img src="../images/lighthouse_admin_register.png" alt="Lighthouse admin register" width="800">
 
 ---
 
@@ -97,7 +97,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_dashboard.png" alt="Lighthouse admin dashboard" width="800">
+<img src="../images/lighthouse_admin_dashboard.png" alt="Lighthouse admin dashboard" width="800">
 
 ---
 
@@ -114,7 +114,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_create_clothes.png" alt="Lighthouse admin clothes create" width="800">
+<img src="../images/lighthouse_admin_create_clothes.png" alt="Lighthouse admin clothes create" width="800">
 
 ---
 
@@ -131,7 +131,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_edit_clothes.png" alt="Lighthouse admin clothes edit" width="800">
+<img src="../images/lighthouse_admin_edit_clothes.png" alt="Lighthouse admin clothes edit" width="800">
 
 ---
 
@@ -148,7 +148,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_index_clothes.png" alt="Lighthouse admin clothes index" width="800">
+<img src="../images/lighthouse_admin_index_clothes.png" alt="Lighthouse admin clothes index" width="800">
 
 ---
 
@@ -165,7 +165,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_show_clothes.png" alt="Lighthouse admin clothes show" width="800">
+<img src="../images/lighthouse_admin_show_clothes.png" alt="Lighthouse admin clothes show" width="800">
 
 ---
 
@@ -182,7 +182,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_create_outfit.png" alt="Lighthouse admin outfit create" width="800">
+<img src="../images/lighthouse_admin_create_outfit.png" alt="Lighthouse admin outfit create" width="800">
 
 ---
 
@@ -199,7 +199,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_edit_outfit.png" alt="Lighthouse admin outfit edit" width="800">
+<img src="../images/lighthouse_admin_edit_outfit.png" alt="Lighthouse admin outfit edit" width="800">
 
 ---
 
@@ -216,7 +216,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_index_outfit.png" alt="Lighthouse admin outfit index" width="800">
+<img src="../images/lighthouse_admin_index_outfit.png" alt="Lighthouse admin outfit index" width="800">
 
 ---
 
@@ -233,7 +233,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_show_outfit.png" alt="Lighthouse admin outfit show" width="800">
+<img src="../images/lighthouse_admin_show_outfit.png" alt="Lighthouse admin outfit show" width="800">
 
 ---
 
@@ -250,7 +250,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_favorite.png" alt="Lighthouse admin favorite" width="800">
+<img src="../images/lighthouse_admin_favorite.png" alt="Lighthouse admin favorite" width="800">
 
 ---
 
@@ -267,7 +267,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_suggestions.png" alt="Lighthouse admin suggestions" width="800">
+<img src="../images/lighthouse_admin_suggestions.png" alt="Lighthouse admin suggestions" width="800">
 
 ---
 
@@ -284,7 +284,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_sorting.png" alt="Lighthouse admin outfit sorting" width="800">
+<img src="../images/lighthouse_admin_sorting.png" alt="Lighthouse admin outfit sorting" width="800">
 
 ---
 
@@ -301,7 +301,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_create_closet.png" alt="Lighthouse admin closet create" width="800">
+<img src="../images/lighthouse_admin_create_closet.png" alt="Lighthouse admin closet create" width="800">
 
 ---
 
@@ -318,7 +318,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_edit_closet.png" alt="Lighthouse admin closet edit" width="800">
+<img src="../images/lighthouse_admin_edit_closet.png" alt="Lighthouse admin closet edit" width="800">
 
 ---
 
@@ -335,7 +335,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_show_closet.png" alt="Lighthouse admin closet show" width="800">
+<img src="../images/lighthouse_admin_show_closet.png" alt="Lighthouse admin closet show" width="800">
 
 ---
 
@@ -352,7 +352,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_index_closet.png" alt="Lighthouse admin closet index" width="800">
+<img src="../images/lighthouse_admin_index_closet.png" alt="Lighthouse admin closet index" width="800">
 
 ---
 
@@ -369,7 +369,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_statistics.png" alt="Lighthouse admin statistics" width="800">
+<img src="../images/lighthouse_admin_statistics.png" alt="Lighthouse admin statistics" width="800">
 
 ---
 
@@ -386,7 +386,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Résultats globaux
 
-<img src="/images/lighthouse_admin_settings.png" alt="Lighthouse admin clothes settings" width="800">
+<img src="../images/lighthouse_admin_settings.png" alt="Lighthouse admin clothes settings" width="800">
 
 ---
 
@@ -418,4 +418,4 @@ Des optimisations restent possibles, notamment sur certaines pages de l'administ
 
 ---
 
-[Retour à l’accueil](/)
+[Retour à l’accueil](../)
