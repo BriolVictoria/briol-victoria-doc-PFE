@@ -38,21 +38,88 @@ Une attention particulière a été portée à la hiérarchie des titres afin de
 
 Les pages du site ont été analysées à l'aide de l'outil **Total Validator** afin de vérifier leur conformité HTML.
 
-### Résultat global
+### Résultat des pages
 
-<img src="/images/..." alt="Validation HTML" width="800">
+#### Page d'accueil
 
-*Figure 3 — Résultat de la validation HTML.*
+<img src="../images/homepage_validator" alt="Headings Map - Accueil" width="800">
 
-### Détails des éventuelles erreurs
+*Figure 3 — Résultat de la validation HTML sur la page d'accueil.*
 
-<img src="/images/..." alt="Détails validation HTML" width="800">
+#### Page d'aide
 
-*Figure 4 — Détail des erreurs et avertissements détectés.*
+<img src="../images/helper_validator" alt="Headings Map - Aide" width="800">
+
+*Figure 4 — Résultat de la validation HTML sur la page d'aide.*
+
+#### Page de login
+
+<img src="../images/login_validator" alt="Headings Map - Login" width="800">
+
+*Figure 5 — Résultat de la validation HTML sur la page de login.*
+
+#### Page de register
+
+<img src="../images/register_validation" alt="Headings Map - Register" width="800">
+
+*Figure 6 — Résultat de la validation HTML sur la page de register.*
+
+#### Page dashboard
+
+<img src="../images/dashboard_validator" alt="Headings Map - Dashboard" width="800">
+
+*Figure 7 — Résultat de la validation HTML sur la page dashboard.*
+
+#### Page de Clothes-Index
+
+<img src="../images/clothes_index_validator" alt="Headings Map - Clothes Index" width="800">
+
+*Figure 8 — Résultat de la validation HTML sur la page de clothes index.*
+
+#### Page de Clothes-Create
+
+<img src="../images/clothes_create_valdiator" alt="Headings Map - Clothes Create" width="800">
+
+*Figure 9 — Résultat de la validation HTML sur la page de clothes create.*
+
+#### Page de Clothes-Show
+
+<img src="../images/clothes_show_valdiator" alt="Headings Map - Clothes Show" width="800">
+
+*Figure 10 — Résultat de la validation HTML sur la page de clothes show.*
+
+#### Page de Clothes-Edit
+
+<img src="../images/clothes_edit_valdiator" alt="Headings Map - Clothes Edit" width="800">
+
+*Figure 11 — Résultat de la validation HTML sur la page de clothes edit.*
+
+#### Page de Favorite
+
+<img src="../images/favroite_valdiator" alt="Headings Map - Favorite" width="800">
+
+*Figure 12 — Résultat de la validation HTML sur la page de favorite.*
+
+#### Page de Closet-Index
+
+<img src="../images/closet_valdiator" alt="Headings Map - Closet Index" width="800">
+
+*Figure 13 — Résultat de la validation HTML sur la page de closet index.*
+
+#### Page de Settings
+
+<img src="../images/settings_valdiator" alt="Headings Map - Settings" width="800">
+
+*Figure 14 — Résultat de la validation HTML sur la page de settings.*
+
+### Analyse des résultats
+
+Les erreurs détectées proviennent de l'utilisation de Laravel Livewire, qui ajoute des attributs que le validateur ne reconnaît pas, ainsi que du token CSRF généré automatiquement par Laravel. Ces éléments ne peuvent pas être modifiés car ils sont indispensables au bon fonctionnement de l'application.
+Les avertissements sont liés au double menu de navigation (mobile et desktop) présent dans le code, ce qui est tout à fait normal pour un site responsive.
 
 ### Conclusion
 
-...
+Ces erreurs et avertissements ne sont donc pas de vraies erreurs de développement, mais simplement des contraintes liées aux outils et à l'architecture du projet.
 
 ---
 
@@ -170,7 +237,7 @@ Une page utilise des microdatas Schema.org afin d'améliorer la compréhension d
 
 <img src="../images/microdata_helper.png" alt="Validation Microdata" width="800">
 
-*Figure 6 — Vérification des microdatas de la page d'aide.*
+*Figure 15 — Vérification des microdatas de la page d'aide.*
 
 ### Conclusion
 
@@ -221,7 +288,7 @@ Les images responsives utilisent l'attribut `srcset` afin de proposer automatiqu
 
 <img src="../images/srcset_images_homepage.png" alt="Exemple srcset" width="800">
 
-*Figure 7 — Utilisation de l'attribut srcset.*
+*Figure 16 — Utilisation de l'attribut srcset.*
 
 ### Résultats obtenus
 
