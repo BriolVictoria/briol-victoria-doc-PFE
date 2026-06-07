@@ -60,7 +60,7 @@ Les pages du site ont été analysées à l'aide de l'outil **Total Validator** 
 
 #### Page de register
 
-<img src="../images/register_validation.png" alt="Headings Map - Register" width="800">
+<img src="../images/register_validator.png" alt="Headings Map - Register" width="800">
 
 *Figure 6 — Résultat de la validation HTML sur la page de register.*
 
