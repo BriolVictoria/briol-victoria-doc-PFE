@@ -42,73 +42,73 @@ Les pages du site ont été analysées à l'aide de l'outil **Total Validator** 
 
 #### Page d'accueil
 
-<img src="../images/homepage_validator" alt="Headings Map - Accueil" width="800">
+<img src="../images/homepage_validator.png" alt="Headings Map - Accueil" width="800">
 
 *Figure 3 — Résultat de la validation HTML sur la page d'accueil.*
 
 #### Page d'aide
 
-<img src="../images/helper_validator" alt="Headings Map - Aide" width="800">
+<img src="../images/helper_validator.png" alt="Headings Map - Aide" width="800">
 
 *Figure 4 — Résultat de la validation HTML sur la page d'aide.*
 
 #### Page de login
 
-<img src="../images/login_validator" alt="Headings Map - Login" width="800">
+<img src="../images/login_validator.png" alt="Headings Map - Login" width="800">
 
 *Figure 5 — Résultat de la validation HTML sur la page de login.*
 
 #### Page de register
 
-<img src="../images/register_validation" alt="Headings Map - Register" width="800">
+<img src="../images/register_validation.png" alt="Headings Map - Register" width="800">
 
 *Figure 6 — Résultat de la validation HTML sur la page de register.*
 
 #### Page dashboard
 
-<img src="../images/dashboard_validator" alt="Headings Map - Dashboard" width="800">
+<img src="../images/dashboard_validator.png" alt="Headings Map - Dashboard" width="800">
 
 *Figure 7 — Résultat de la validation HTML sur la page dashboard.*
 
 #### Page de Clothes-Index
 
-<img src="../images/clothes_index_validator" alt="Headings Map - Clothes Index" width="800">
+<img src="../images/clothes_index_validator.png" alt="Headings Map - Clothes Index" width="800">
 
 *Figure 8 — Résultat de la validation HTML sur la page de clothes index.*
 
 #### Page de Clothes-Create
 
-<img src="../images/clothes_create_valdiator" alt="Headings Map - Clothes Create" width="800">
+<img src="../images/clothes_create_valdiator.png" alt="Headings Map - Clothes Create" width="800">
 
 *Figure 9 — Résultat de la validation HTML sur la page de clothes create.*
 
 #### Page de Clothes-Show
 
-<img src="../images/clothes_show_valdiator" alt="Headings Map - Clothes Show" width="800">
+<img src="../images/clothes_show_valdiator.png" alt="Headings Map - Clothes Show" width="800">
 
 *Figure 10 — Résultat de la validation HTML sur la page de clothes show.*
 
 #### Page de Clothes-Edit
 
-<img src="../images/clothes_edit_valdiator" alt="Headings Map - Clothes Edit" width="800">
+<img src="../images/clothes_edit_valdiator.png" alt="Headings Map - Clothes Edit" width="800">
 
 *Figure 11 — Résultat de la validation HTML sur la page de clothes edit.*
 
 #### Page de Favorite
 
-<img src="../images/favroite_valdiator" alt="Headings Map - Favorite" width="800">
+<img src="../images/favroite_valdiator.png" alt="Headings Map - Favorite" width="800">
 
 *Figure 12 — Résultat de la validation HTML sur la page de favorite.*
 
 #### Page de Closet-Index
 
-<img src="../images/closet_valdiator" alt="Headings Map - Closet Index" width="800">
+<img src="../images/closet_valdiator.png" alt="Headings Map - Closet Index" width="800">
 
 *Figure 13 — Résultat de la validation HTML sur la page de closet index.*
 
 #### Page de Settings
 
-<img src="../images/settings_valdiator" alt="Headings Map - Settings" width="800">
+<img src="../images/settings_valdiator.png" alt="Headings Map - Settings" width="800">
 
 *Figure 14 — Résultat de la validation HTML sur la page de settings.*
 
