@@ -90,13 +90,13 @@ Les pages du site ont été analysées à l'aide de l'outil **Total Validator** 
 
 #### Page de Clothes-Edit
 
-<img src="../images/clothes_edit_valdiator.png" alt="Headings Map - Clothes Edit" width="800">
+<img src="../images/clothes_edit_validator.png" alt="Headings Map - Clothes Edit" width="800">
 
 *Figure 11 — Résultat de la validation HTML sur la page de clothes edit.*
 
 #### Page de Favorite
 
-<img src="../images/favroite_validator.png" alt="Headings Map - Favorite" width="800">
+<img src="../images/favorite_validator.png" alt="Headings Map - Favorite" width="800">
 
 *Figure 12 — Résultat de la validation HTML sur la page de favorite.*
 
