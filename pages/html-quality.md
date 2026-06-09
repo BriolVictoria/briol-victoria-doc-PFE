@@ -264,7 +264,7 @@ Cette approche permet :
 
 Les images responsives utilisent l'attribut `srcset` afin de proposer automatiquement une version adaptée à la taille de l'écran.
 
-#### Exemple
+#### Code généré
 
 ```html
 <img
@@ -284,7 +284,7 @@ Les images responsives utilisent l'attribut `srcset` afin de proposer automatiqu
 />
 ```
 
-### Capture du code généré
+### Image dans le site de l'utilisation de srcset
 
 <img src="../images/srcset_images_homepage.png" alt="Exemple srcset" width="800">
 
