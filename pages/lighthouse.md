@@ -6,15 +6,16 @@ permalink: /lighthouse/
 
 # Audit Lighthouse
 
-Ce document présente les résultats des audits Lighthouse réalisés sur l'application, aussi bien sur l'interface publique que sur l'interface d'administration.
+Cette page présente les résultats des audits Lighthouse fait sur mon application, aussi bien sur l'interface publique que sur l'interface d'administration.
 
 L’objectif est d’évaluer les performances, l’accessibilité, le SEO et les bonnes pratiques du projet.
+L'objectif était d'évaluer les performances, l'accessiblité, les bonnes pratiques du projet et le SEO.
 
 ---
 
 # 1. Site public
 
-Deux pages principales ont été analysées.
+Les deux pages du site publique ont été analysées.
 
 ---
 
@@ -54,8 +55,8 @@ Deux pages principales ont été analysées.
 
 # 2. Interface d'administration
 
-L’interface d’administration contient un plus grand nombre de pages et de fonctionnalités dynamiques.  
-Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
+L’interface d’administration contient un plus grand nombre de pages et de fonctionnalités.  
+Les audits Lighthouse a donc été réalisés sur toutes les pages du site d'administration.
 
 ---
 
@@ -401,7 +402,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Synthèse globale
 
-L’ensemble de l’interface d’administration présente des résultats cohérents compte tenu de la complexité des fonctionnalités (formulaires dynamiques, tableaux de données, interactions JavaScript).
+L'ensemble de l'interface d'administration présente des résultats assez cohérents compte tenu des différentes fonctinnalités (formulaires dynamiques, interactions JavaScript, etc.)
 
 ---
 
@@ -411,8 +412,8 @@ Les audits Lighthouse montrent :
 
 - de bonnes performances globales côté public ;
 - une accessibilité globalement respectée ;
-- des résultats plus variables côté administration en raison de la complexité fonctionnelle ;
-- une base technique globalement conforme aux bonnes pratiques du Web.
+- des résultats plus variables côté administration en raison des différents fonctionnalités ;
+- une base technique conforme aux bonnes pratiques du Web.
 
 ---
 
