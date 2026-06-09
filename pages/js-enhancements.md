@@ -18,10 +18,10 @@ Une fonctionnalité principale du projet repose sur un système d’onglets dyna
 
 ## Fonctionnalités mises en place
 
-- Navigation entre contenus via clic utilisateur
-- Défilement automatique des onglets
-- Mise en évidence visuelle de l’onglet actif
-- Gestion de l’état actif dans l’interface
+- Navigation entre contenus via clic utilisateur ;
+- Défilement automatique des onglets ;
+- Mise en évidence visuelle de l’onglet actif ;
+- Gestion de l’état actif dans l’interface.
 
 ## Exemple d’implémentation
 
@@ -85,10 +85,10 @@ Le projet utilise la librairie **ECharts** pour afficher des graphiques dynamiqu
 
 ## Fonctionnalités
 
-- Affichage de graphiques interactifs
-- Données injectées dynamiquement via `data-*`
-- Redimensionnement automatique des graphiques
-- Compatibilité avec navigation dynamique (Livewire)
+- Affichage de graphiques interactifs ;
+- Données injectées dynamiquement via `data-*` ;
+- Redimensionnement automatique des graphiques ;
+- Compatibilité avec navigation dynamique (Livewire).
 
 ## Exemple (graphique couleur)
 
@@ -97,9 +97,7 @@ import * as echarts from 'echarts';
 
 function initColorChart() {
     const chartDom = document.getElementById('color_chart');
-    const myChart = echarts.init(chartDom, null, {
-        renderer: 'svg'
-    });
+    const myChart = echarts.init(chartDom);
 
     const option = JSON.parse(chartDom.dataset.chart);
 
