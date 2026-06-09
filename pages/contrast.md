@@ -6,23 +6,24 @@ permalink: /contrast/
 
 # Rapport de contraste
 
-Cette page présente les vérifications de contraste réalisées sur l'application afin de garantir une bonne lisibilité du contenu et le respect des recommandations d'accessibilité.
+Cette page présente les vérifications de contraste que j'ai réalisées pour garantir une bonne lisibilité du contenu et de respecter les recommandations d'accessiblité.
 
 ---
 
 ## Outil utilisé
 
-Les contrastes ont été vérifiés à l'aide du service suivant :
+Mes contrastes ont été vérifies sur ce service :
 
 [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
-Cet outil permet de vérifier la conformité des contrastes de couleurs selon les critères WCAG (Web Content Accessibility Guidelines).
-
+Cet outil permet de vérifier les contrastes de couleurs selon les critères WCAG (Web Content Accessibility Guidelines).
+ 
 ---
 
 ## Vérification des contrastes
 
-La principale combinaison de couleurs utilisé dans l'interface a été analysé afin de s'assurer qu'elle offre un niveau de contraste suffisant pour tous les utilisateurs.
+Je n'ai vérifier qu'une combinaison de couleurs, car je n'en ai utilisé qu'une dans l'application. Elle a été analysé pour assurer un niveau de contraste suffisant pour tous les utilisateurs.
+
 
 ### Résultat de l'analyse
 
@@ -34,19 +35,19 @@ La principale combinaison de couleurs utilisé dans l'interface a été analysé
 
 ## Observations
 
-Les vérifications effectuées montrent que :
+Les vérifications faites montrent que :
 
-- les textes restent lisibles sur leurs arrière-plans ;
-- les couleurs respectent les recommandations d'accessibilité applicables ;
-- les contrastes sont suffisants pour garantir une lecture confortable du contenu.
+- les textes restent lisibles sur l'arrière-plan ;
+- les couleurs respectent les recommandations d'accessibilité ;
+- les contrastes sont suffisants pour avoir une lecture confortable du contenu.
 
 ---
 
 ## Conclusion
 
-L'analyse réalisée confirme que les contrastes utilisés dans l'application répondent aux exigences d'accessibilité et assurent une bonne expérience de lecture pour les utilisateurs.
+L'analyse que j'ai réalisée montre que les constrastes utilisés dans l'application répondent aux exigences d'accessiblité et assurent une bonne expérience de lecture pour les utilisateurs.
 
-Les éventuels problèmes détectés durant le développement ont été corrigés afin d'améliorer la conformité du projet aux recommandations WCAG.
+Les problèmes rencontrés pendant le développement ont été corrigés afin d'avoir un rapport constrate conforme aux normes WCAG.
 
 ---
 
