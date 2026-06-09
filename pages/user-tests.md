@@ -6,7 +6,7 @@ permalink: /user-tests/
 
 # Bilan des tests utilisateurs
 
-Ce document présente les tests utilisateurs réalisés afin d'évaluer l'expérience utilisateur de l'application et de vérifier son adéquation avec les besoins définis dans le cahier des charges.
+Cette page présente les tests utilisateurs réalisés pour évaluer l'expérience utilisateur de l'application et de vérifier son fonctionnement avec les besoins définis dans le cahier des charges.
 
 Les tests ont été réalisés auprès de **trois personnes appartenant à la cible visée par le projet**.
 
