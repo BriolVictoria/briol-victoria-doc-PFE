@@ -14,7 +14,7 @@ L’objectif est d’évaluer les performances, l’accessibilité, le SEO et le
 
 # 1. Site public
 
-Deux pages principales ont été analysées côté utilisateur.
+Deux pages principales ont été analysées.
 
 ---
 
@@ -401,7 +401,7 @@ Les audits Lighthouse ont été réalisés sur plusieurs pages représentatives.
 
 ### Synthèse globale
 
-L’ensemble de l’interface d’administration présente des résultats cohérents compte tenu de la complexité des fonctionnalités (formulaires dynamiques, tableaux de données, interactions JavaScript avancées).
+L’ensemble de l’interface d’administration présente des résultats cohérents compte tenu de la complexité des fonctionnalités (formulaires dynamiques, tableaux de données, interactions JavaScript).
 
 ---
 
@@ -413,8 +413,6 @@ Les audits Lighthouse montrent :
 - une accessibilité globalement respectée ;
 - des résultats plus variables côté administration en raison de la complexité fonctionnelle ;
 - une base technique globalement conforme aux bonnes pratiques du Web.
-
-Des optimisations restent possibles, notamment sur certaines pages de l'administration fortement dynamiques.
 
 ---
 
