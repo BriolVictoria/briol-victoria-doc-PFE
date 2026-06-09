@@ -254,7 +254,7 @@ Quelques axes d'amélioration restent possibles :
 
 - optimisation avancée des performances sur certaines pages ;
 - amélioration de certaines pages mobiles complexes ;
-- enrichissement potentiel de l'accessibilité avancée.
+- enrichissement potentiel de l'accessibilité.
 
 ---
 
