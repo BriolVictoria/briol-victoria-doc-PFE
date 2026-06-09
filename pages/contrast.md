@@ -22,7 +22,7 @@ Cet outil permet de vérifier la conformité des contrastes de couleurs selon le
 
 ## Vérification des contrastes
 
-Les principales combinaisons de couleurs utilisées dans l'interface ont été analysées afin de s'assurer qu'elles offrent un niveau de contraste suffisant pour tous les utilisateurs.
+La principale combinaison de couleurs utilisé dans l'interface a été analysé afin de s'assurer qu'elle offre un niveau de contraste suffisant pour tous les utilisateurs.
 
 ### Résultat de l'analyse
 
@@ -36,7 +36,7 @@ Les principales combinaisons de couleurs utilisées dans l'interface ont été a
 
 Les vérifications effectuées montrent que :
 
-- les textes restent lisibles sur leurs arrière-plans respectifs ;
+- les textes restent lisibles sur leurs arrière-plans ;
 - les couleurs respectent les recommandations d'accessibilité applicables ;
 - les contrastes sont suffisants pour garantir une lecture confortable du contenu.
 
