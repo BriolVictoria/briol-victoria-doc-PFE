@@ -6,13 +6,13 @@ permalink: /html-quality/
 
 # Qualité du code HTML
 
-Cette page présente les éléments permettant de savoir la qualité du code HTML produit dans le cadre du projet.
+Cette page présente les éléments qui permettent de savoir la qualité du code HTML fait dans le cadre du projet.
 
 ---
 
 ## 1. Structure des titres (Headings Map)
 
-Une attention particulière a été portée à la hiérarchie des titres afin de garantir une structure claire du contenu et une bonne accessibilité.
+J'ai porté une attention particulière pour la hiérachie des titres afin d'avoir une structure claire du contenu et une bonne accessibilité.
 
 ### Page d'accueil
 
@@ -36,7 +36,7 @@ Une attention particulière a été portée à la hiérarchie des titres afin de
 
 ## 2. Validation HTML
 
-Les pages du site ont été analysées à l'aide de l'outil **Total Validator** afin de vérifier leur conformité HTML.
+Toutes les pages du site ont été analysées à l'aide de **Total Validator** pour vérifier leur validation HTML, seul les pages me semblant pertinentes ont été reprise ici.
 
 ### Résultat des pages
 
@@ -125,15 +125,15 @@ Ces erreurs et avertissements ne sont donc pas de vraies erreurs de développeme
 
 ## 3. Respect des bonnes pratiques HTML et sémantique
 
-Le développement du projet a été réalisé en respectant les bonnes pratiques HTML modernes ainsi que les recommandations de structuration sémantique.
+Le développement du projet a été réalisé en respectant les bonnes pratiques HTML ainsi que certaines recommandations de la structure sémantique.
 
-L’objectif est de garantir un code lisible, accessible et maintenable.
+Mon objectif est d'avoir un code lisible, accessible et maintenable.
 
 ---
 
 ### Structure sémantique du projet
 
-Le projet repose sur une utilisation systématique des balises sémantiques HTML :
+La construction du projet repose sur une utilisation systématique des balises sémantiques HTML :
 
 - `<header>` : en-tête et navigation principale
 - `<main>` : contenu principal des pages
@@ -146,7 +146,7 @@ Cette organisation améliore la compréhension du code et facilite l’accessibi
 
 ### Hiérarchie des titres
 
-Une attention particulière a été portée à la hiérarchie des titres :
+J'ai porté une attention particulière sur la hiérachie des titres :
 
 - un seul `<h1>` par page ;
 - utilisation cohérente des `<h2>`, `<h3>`, etc. ;
@@ -241,19 +241,19 @@ Une page utilise des microdatas Schema.org afin d'améliorer la compréhension d
 
 ### Conclusion
 
-Les microdonnées permettent d'enrichir les informations fournies aux moteurs de recherche et d'améliorer l'indexation du contenu.
+Les microdonnées vont permettrent d'enrichir les informations fournies aux moteurs de recherche.
 
 ---
 
 ## 5. Optimisation des images
 
-Les images ont été optimisées afin d'améliorer les performances du site et de réduire les temps de chargement.
+Les images ont été optinisées pour améliorer les performances du site et réduire les temps de chargement.
 
 ### Redimensionnement côté serveur
 
-Lorsque cela est pertinent, plusieurs versions d'une même image sont générées afin d'éviter le téléchargement d'images plus volumineuses que nécessaire.
+Quand c'est pertinent, plusieurs versions d'une même image ont été générées pour éviter le téléchargement d'images trop volumineux non nécessaire.
 
-Cette approche permet :
+Ceci permet :
 
 - de réduire le poids des pages ;
 - d'améliorer les temps de chargement ;
@@ -262,7 +262,7 @@ Cette approche permet :
 
 ### Utilisation de `srcset`
 
-Les images responsives utilisent l'attribut `srcset` afin de proposer automatiquement une version adaptée à la taille de l'écran.
+Les images responsives utilisent l'attribut `srcset` pour proposer automatiquement une version adaptée à la taille de l'écran.
 
 #### Code généré
 
@@ -292,7 +292,7 @@ Les images responsives utilisent l'attribut `srcset` afin de proposer automatiqu
 
 ### Résultats obtenus
 
-Les optimisations mises en œuvre permettent :
+Les optimisations permettent :
 
 - une meilleure expérience utilisateur sur mobile ;
 - une réduction du volume de données téléchargées ;
