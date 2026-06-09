@@ -6,7 +6,7 @@ permalink: /opquast/
 
 # Observation du projet avec la checklist Opquast
 
-Ce document présente l'analyse du projet à l'aide de la checklist **Opquast (Open Quality Standards)**.
+Cette page présente l'analyse du projet à l'aide de la checkliset **Opquast (Open Quality Standards)**.
 
 L'objectif est de vérifier la qualité globale du site selon des critères liés à l'accessibilité, l'ergonomie, la performance, la sécurité et la qualité du code.
 
@@ -14,9 +14,9 @@ L'objectif est de vérifier la qualité globale du site selon des critères lié
 
 # 1. Méthodologie
 
-L'audit a été réalisé en s'appuyant sur les **23 catégories Opquast**, en appliquant **au moins 2 règles par catégorie** lorsque cela était pertinent dans le contexte du projet.
+Ça été réalisé en se basant sur les **23 catégories Opquast**, et en appliquant **au moins 2 règles par catégorie**, seulement losrque c'était pertinent dans le contexte de mon projet.
 
-Chaque catégorie a été analysée en fonction des fonctionnalités du site public et de l'interface d'administration.
+Chaque catégorie a été analysée en fonction des fonctionnalités du site public et du site d'administration.
 
 ---
 
@@ -45,7 +45,7 @@ Résultat : conforme
 - Optimisation des images
 - Chargement optimisé des ressources
 
-Résultat : partiellement conforme (optimisations en cours sur certaines pages)
+Résultat : conforme 
 
 ---
 
@@ -240,7 +240,7 @@ Résultat : non applicable
 
 # 3. Synthèse globale
 
-L'analyse Opquast montre que le projet respecte globalement les bonnes pratiques du web moderne.
+L'analyse Opquast montre que le projet respecte globalement les bonnes pratiques du web.
 
 Les points forts principaux sont :
 
@@ -253,14 +253,13 @@ Les points forts principaux sont :
 Quelques axes d'amélioration restent possibles :
 
 - optimisation avancée des performances sur certaines pages ;
-- amélioration de certaines pages mobiles complexes ;
-- enrichissement potentiel de l'accessibilité.
+- amélioration de certaines pages mobiles complexes.
 
 ---
 
 # Conclusion
 
-L'application présente un niveau de qualité global satisfaisant au regard des standards Opquast, avec une attention particulière portée à la structure, l'accessibilité et la performance.
+L'application présente tout de même un bon niveau de qualité par rapport aux standards Opquast, j'ai porté une attention particulitère sur la structure, l'accessiblité et la performances.
 
 ---
 
