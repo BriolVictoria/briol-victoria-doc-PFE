@@ -6,15 +6,15 @@ permalink: /js-enhancements/
 
 # Améliorations de l’expérience utilisateur avec JavaScript
 
-Ce document présente les améliorations apportées à l’interface grâce à JavaScript ainsi que les mécanismes de dégradation gracieuse mis en place.
+Cette page présente les améliorations de l'interface grâce à JavaScript ainsi que les mécanismes de dégradation gracieuse mis en place.
 
-L’utilisation de JavaScript dans le projet ne vise pas uniquement à ajouter de l’interactivité, mais à enrichir l’expérience utilisateur tout en conservant une application fonctionnelle sans dépendance critique au script.
+L'utilisation de JavaScript dans mon projet n'est pas seulement la pour ajouter de l'interactivité, mais aussi pour avoir une expérience utilisateur plus enrichis en conservant une application fonctionnelle.
 
 ---
 
 # 1. Gestion des onglets dynamiques (Tabs)
 
-Une fonctionnalité principale du projet repose sur un système d’onglets dynamiques permettant d’afficher différents contenus sans rechargement de page.
+Un espace de mon projet repose sur un système d'onglets dynamiques qui permet d'afficher différents contenues sans devoir recharger la page.
 
 ## Fonctionnalités mises en place
 
@@ -159,7 +159,7 @@ Une attention particulière a été portée à la compatibilité en cas de désa
 
 ## Comportement sans JavaScript
 
-- les contenus restent accessibles ;
+- les contenus de base restent accessibles ;
 - les onglets affichent le contenu par défaut ;
 - les données restent lisibles ;
 - les images restent consultables sans Fancybox.
@@ -167,13 +167,11 @@ Une attention particulière a été portée à la compatibilité en cas de désa
 
 # 5. Conclusion
 
-L’utilisation de JavaScript dans le projet permet d’améliorer significativement l’expérience utilisateur à travers :
+L’utilisation de JavaScript dans le projet permet d’améliorer l’expérience utilisateur à travers :
 
 - une navigation plus fluide (tabs) ;
 - une meilleure visualisation des données (ECharts) ;
-- une expérience image enrichie (Fancybox).
-
-Cependant, ces améliorations respectent le principe de **dégradation gracieuse**, garantissant un fonctionnement correct de l’application sans JavaScript.
+- une meilleure visualisation des images (Fancybox).
 
 ---
 
