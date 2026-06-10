@@ -6,7 +6,7 @@ permalink: /user-tests/
 
 # Bilan des tests utilisateurs
 
-Cette page présente les tests utilisateurs réalisés pour évaluer l'expérience utilisateur de l'application et de vérifier son fonctionnement avec les besoins définis dans le cahier des charges.
+Cette page présente les tests utilisateurs réalisés pour évaluer l'expérience utilisateur de l'application et vérifier son fonctionnement avec les besoins définis dans le cahier des charges.
 
 Les tests ont été réalisés auprès de **trois personnes appartenant à la cible visée par le projet**.
 
@@ -24,11 +24,11 @@ Durant chaque session, les utilisateurs étaient invités à réaliser plusieurs
 
 ### Utilisateur 2
 
-- Parent, qui doit gérer plusieurs choses à la fois et voulant organiser son quotidien
+- Parent, qui doit gérer plusieurs choses à la fois et souhaitant organiser son quotidien
 
 ### Utilisateur 3
 
-- Étudiant, peu intéressé par la mode, voulant faire les choses vite pour ne pas perdre du temps
+- Étudiant, peu intéressé par la mode, désirant faire les choses vite pour ne pas perdre du temps
 
 ---
 
@@ -82,9 +82,9 @@ Lien vers la vidéo :
 
 ### Observations
 
-- Utilisateur 1 => Compréhension et mise en exécution de la tâche rapides
+- Utilisateur 1 => Compréhension et mise en exécution rapides de la tâche
 - Utilisateur 2 => Compréhension de la tâche. Prend le temps de mettre les bonne infos
-- Utilisateur 3 => Compréhension de la tâche rapidement et ajout de certains éléments efficace
+- Utilisateur 3 => Compréhension de la tâche rapidement et ajout de certains éléments efficaces
 
 ### Capture d'écran
 
@@ -138,9 +138,9 @@ La fonctionnalité de filtre est facilement identifiable et comprise par les uti
 
 ### Observations
 
-- Utilisateur 1 => Création de la tenue rapidement sans prise de tête
-- Utilisateur 2 => La tenue est créer avec soin. Tâches exécuté rapidement
-- Utilisateur 3 => Création de la tenue rapidement sans prise de tête. Ajout de certains élément efficace
+- Utilisateur 1 => Création de la tenue rapidement, sans prise de tête
+- Utilisateur 2 => La tenue est créée avec soin. Tâche exécutée rapidement
+- Utilisateur 3 => Création de la tenue rapidement, sans prise de tête. Ajout de certains éléments efficaces
   
 ### Capture d'écran
 
@@ -166,9 +166,9 @@ La création d’une tenue a été réalisée sans erreur par tous les utilisate
 
 ### Observations
 
-- Utilisateur 1 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
-- Utilisateur 2 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
-- Utilisateur 3 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut à été changer rapidement dans les deux cas.
+- Utilisateur 1 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut a été changé rapidement dans les deux cas.
+- Utilisateur 2 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut a été changé rapidement dans les deux cas.
+- Utilisateur 3 => L'utilisateur a cliqué sur la fiche puis sur le bouton "modifier". Alors qu'il y avait l'icône modifier sur la fiche même (donc plus rapide par l'icône). Le statut a été changé rapidement dans les deux cas.
 
 ### Capture d'écran
 
