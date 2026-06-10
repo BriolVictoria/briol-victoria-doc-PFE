@@ -6,13 +6,13 @@ permalink: /html-quality/
 
 # Qualité du code HTML
 
-Cette page présente les éléments qui permettent de savoir la qualité du code HTML fait dans le cadre du projet.
+Cette page présente les éléments qui permettent de connaître la qualité du code HTML utilisé dans le cadre du projet.
 
 ---
 
 ## 1. Structure des titres (Headings Map)
 
-J'ai porté une attention particulière pour la hiérachie des titres afin d'avoir une structure claire du contenu et une bonne accessibilité.
+J'ai porté une attention particulière à la hiérachie des titres afin d'avoir une structure claire du contenu et une bonne accessibilité.
 
 ### Page d'accueil
 
@@ -28,15 +28,15 @@ J'ai porté une attention particulière pour la hiérachie des titres afin d'avo
 
 ### Observations
 
-- Présence d'un unique titre principal (`H1`) par page.
-- Respect de la hiérarchie des niveaux de titres.
+- Présence d'un titre principal unique (`H1`) par page ;
+- Respect de la hiérarchie des niveaux de titres ;
 - Structure cohérente facilitant la navigation et l'accessibilité.
 
 ---
 
 ## 2. Validation HTML
 
-Toutes les pages du site ont été analysées à l'aide de **Total Validator** pour vérifier leur validation HTML, seul les pages me semblant pertinentes ont été reprise ici.
+Toutes les pages du site ont été analysées à l'aide de **Total Validator** pour vérifier leur validation HTML, seules les pages me paraîssant pertinentes ont été reprises ici.
 
 ### Résultat des pages
 
@@ -135,10 +135,10 @@ Mon objectif est d'avoir un code lisible, accessible et maintenable.
 
 La construction du projet repose sur une utilisation systématique des balises sémantiques HTML :
 
-- `<header>` : en-tête et navigation principale
-- `<main>` : contenu principal des pages
-- `<section>` : découpage logique des contenus
-- `<footer>` : informations de fin de page
+- `<header>` : en-tête et navigation principale ;
+- `<main>` : contenu principal des pages ;
+- `<section>` : découpage logique des contenus ;
+- `<footer>` : informations de fin de page.
 
 Cette organisation améliore la compréhension du code et facilite l’accessibilité.
 
@@ -146,7 +146,7 @@ Cette organisation améliore la compréhension du code et facilite l’accessibi
 
 ### Hiérarchie des titres
 
-J'ai porté une attention particulière sur la hiérachie des titres :
+J'ai porté une attention particulière à la hiérachie des titres :
 
 - un seul `<h1>` par page ;
 - utilisation cohérente des `<h2>`, `<h3>`, etc. ;
@@ -247,7 +247,7 @@ Les microdonnées vont permettrent d'enrichir les informations fournies aux mote
 
 ## 5. Optimisation des images
 
-Les images ont été optinisées pour améliorer les performances du site et réduire les temps de chargement.
+Les images ont été optimisées pour améliorer les performances du site et réduire les temps de chargement.
 
 ### Redimensionnement côté serveur
 
