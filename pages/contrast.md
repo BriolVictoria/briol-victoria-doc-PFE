@@ -6,13 +6,13 @@ permalink: /contrast/
 
 # Rapport de contraste
 
-Cette page présente les vérifications de contraste que j'ai réalisées pour garantir une bonne lisibilité du contenu et de respecter les recommandations d'accessiblité.
+Cette page présente les vérifications de contraste que j'ai réalisées pour garantir une bonne lisibilité du contenu et respecter les recommandations d'accessiblité.
 
 ---
 
 ## Outil utilisé
 
-Mes contrastes ont été vérifies sur ce service :
+Mes contrastes ont été vérifiés sur ce service :
 
 [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
@@ -22,7 +22,7 @@ Cet outil permet de vérifier les contrastes de couleurs selon les critères WCA
 
 ## Vérification des contrastes
 
-Je n'ai vérifier qu'une combinaison de couleurs, car je n'en ai utilisé qu'une dans l'application. Elle a été analysé pour assurer un niveau de contraste suffisant pour tous les utilisateurs.
+Je n'ai vérifié qu'une combinaison de couleurs, car je n'en ai utilisé qu'une seule dans l'application. Elle a été analysée pour assurer un niveau de contraste suffisant pour tous les utilisateurs.
 
 
 ### Résultat de l'analyse
