@@ -6,9 +6,8 @@ permalink: /lighthouse/
 
 # Audit Lighthouse
 
-Cette page présente les résultats des audits Lighthouse fait sur mon application, aussi bien sur l'interface publique que sur l'interface d'administration.
+Cette page présente les résultats des audits Lighthouse de mon application, aussi bien sur l'interface publique que sur l'interface d'administration.
 
-L’objectif est d’évaluer les performances, l’accessibilité, le SEO et les bonnes pratiques du projet.
 L'objectif était d'évaluer les performances, l'accessiblité, les bonnes pratiques du projet et le SEO.
 
 ---
@@ -402,7 +401,7 @@ Les audits Lighthouse a donc été réalisés sur toutes les pages du site d'adm
 
 ### Synthèse globale
 
-L'ensemble de l'interface d'administration présente des résultats assez cohérents compte tenu des différentes fonctinnalités (formulaires dynamiques, interactions JavaScript, etc.)
+L'ensemble de l'interface d'administration présente des résultats assez cohérents compte tenu des différentes fonctionnalités (formulaires dynamiques, interactions JavaScript, etc.)
 
 ---
 
@@ -412,7 +411,7 @@ Les audits Lighthouse montrent :
 
 - de bonnes performances globales côté public ;
 - une accessibilité globalement respectée ;
-- des résultats plus variables côté administration en raison des différents fonctionnalités ;
+- des résultats plus variables côté administration en raison des différentes fonctionnalités ;
 - une base technique conforme aux bonnes pratiques du Web.
 
 ---
