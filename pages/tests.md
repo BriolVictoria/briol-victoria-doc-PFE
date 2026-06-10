@@ -8,7 +8,7 @@ permalink: /tests/
 
 Cette page présente un ensemble des tests automatisés réalisés dans le cadre du projet.
 
-L'application dispose de **57 tests automatisés au total**(seulement 30 sont présent à la fin du document), couvrant à la fois les fonctionnalités serveur (backend) et les scénarios utilisateur (browser testing).
+L'application dispose de **57 tests automatisés au total**(seulement 30 sont présents à la fin du document), couvrant à la fois les fonctionnalités serveur (backend) et les scénarios utilisateur (browser testing).
 
 ---
 
