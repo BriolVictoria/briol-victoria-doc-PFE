@@ -8,13 +8,13 @@ permalink: /js-enhancements/
 
 Cette page présente les améliorations de l'interface grâce à JavaScript ainsi que les mécanismes de dégradation gracieuse mis en place.
 
-L'utilisation de JavaScript dans mon projet n'est pas seulement la pour ajouter de l'interactivité, mais aussi pour avoir une expérience utilisateur plus enrichis en conservant une application fonctionnelle.
+L'utilisation de JavaScript dans mon projet n'est pas seulement là pour ajouter de l'interactivité, mais aussi pour avoir une expérience utilisateur plus enrichie en conservant une application fonctionnelle.
 
 ---
 
 # 1. Gestion des onglets dynamiques (Tabs)
 
-Un espace de mon projet repose sur un système d'onglets dynamiques qui permet d'afficher différents contenues sans devoir recharger la page.
+Un espace de mon projet repose sur un système d'onglets dynamiques qui permet d'afficher différents contenus sans devoir recharger la page.
 
 ## Fonctionnalités mises en place
 
