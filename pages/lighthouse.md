@@ -14,7 +14,7 @@ L'objectif était d'évaluer les performances, l'accessiblité, les bonnes prati
 
 # 1. Site public
 
-Les deux pages du site publique ont été analysées.
+Les deux pages du site public ont été analysées.
 
 ---
 
