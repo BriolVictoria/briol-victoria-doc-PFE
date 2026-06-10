@@ -14,7 +14,7 @@ L'objectif est de vérifier la qualité globale du site selon des critères lié
 
 # 1. Méthodologie
 
-Ça été réalisé en se basant sur les **23 catégories Opquast**, et en appliquant **au moins 2 règles par catégorie**, seulement losrque c'était pertinent dans le contexte de mon projet.
+Cela a été réalisé en se basant sur les **23 catégories Opquast**, et en appliquant **au moins 2 règles par catégorie**, seulement losrque c'était pertinent dans le contexte de mon projet.
 
 Chaque catégorie a été analysée en fonction des fonctionnalités du site public et du site d'administration.
 
