@@ -259,7 +259,7 @@ Quelques axes d'amélioration restent possibles :
 
 # Conclusion
 
-L'application présente tout de même un bon niveau de qualité par rapport aux standards Opquast, j'ai porté une attention particulitère sur la structure, l'accessiblité et la performances.
+L'application présente tout de même un bon niveau de qualité par rapport aux standards Opquast, j'ai porté une attention particulitère sur la structure, l'accessiblité et la performance.
 
 ---
 
