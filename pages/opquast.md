@@ -22,221 +22,95 @@ Chaque catégorie a été analysée en fonction des fonctionnalités du site pub
 
 # 2. Résumé des vérifications
 
-## Accessibilité
-
-- Images avec attribut `alt`
-- Structure HTML sémantique correcte
-
-Résultat : conforme
-
----
-
-## Ergonomie
-
-- Navigation cohérente
-- Parcours utilisateur clair
-
-Résultat : conforme
-
----
-
-## Performance
-
-- Optimisation des images
-- Chargement optimisé des ressources
-
-Résultat : conforme 
-
----
-
-## Référencement (SEO)
-
-- Balises titres structurées
-- URLs propres et lisibles
-
-Résultat : conforme
-
----
-
-## Sécurité
-
-- Protection des routes sensibles
-- Authentification requise pour l’administration
-
-Résultat : conforme
-
----
-
-## Formulaires
-
-- Présence de labels associés
-- Validation des champs côté serveur
-
-Résultat : conforme
-
----
-
-## Navigation
-
-- Menu clair et cohérent
-- Retour accueil disponible sur toutes les pages
-
-Résultat : conforme
-
----
-
 ## Contenus
+- Règle n°12 => Graphique avec description
+- Règle n°2 => RGPD présent dans le footer
 
-- Hiérarchisation des informations
-- Contenus structurés et lisibles
+## E-commerce
+- Non concerné par l'application
 
-Résultat : conforme
-
----
-
-## Images
-
-- Compression des images
-- Utilisation de formats optimisés
-
-Résultat : conforme
-
----
-
-## Mobile
-
-- Interface responsive
-- Adaptation aux écrans mobiles
-
-Résultat : conforme
-
----
-
-## Technologies
-
-- Utilisation de Laravel
-- Respect des standards HTML/Tailwind
-
-Résultat : conforme
-
----
-
-## Données
-
-- Validation des données côté serveur
-- Sécurisation des entrées utilisateur
-
-Résultat : conforme
-
----
-
-## Liens
-
-- Liens fonctionnels
-- Pas de liens cassés identifiés
-
-Résultat : conforme
-
----
-
-## Aide et assistance
-
-- Messages d’erreur compréhensibles
-- Feedback utilisateur présent
-
-Résultat : conforme
-
----
-
-## Architecture
-
-- Structure logique du projet
-- Séparation claire des responsabilités
-
-Résultat : conforme
-
----
-
-## Compatibilité
-
-- Test sur plusieurs navigateurs
-- Rendu homogène
-
-Résultat : conforme
-
----
-
-## Accessibilité avancée
-
-- Contrastes vérifiés
-- Navigation clavier possible
-
-Résultat : conforme
-
----
-
-## Qualité du code
-
-- Code structuré
-- Respect des conventions Laravel
-
-Résultat : conforme
-
----
-
-## Identifiants et sessions
-
-- Gestion des sessions utilisateur
-- Déconnexion sécurisée
-
-Résultat : conforme
-
----
-
-## Erreurs
-
-- Pages d’erreur
-- Gestion des erreurs serveur
-
-Résultat : conforme
-
----
-
-## Multimédia
-
-- Images optimisées
-- Pas de surcharge inutile
-
-Résultat : conforme
-
----
-
-## Impression
-
-- Pages lisibles sans style complexe
-- Structure claire en impression
-
-Résultat : non testé
-
----
+## Identification et contact
+- Règle n°99 => La page d'accueil présente les fonctionnalités
+- Règle n°102 => Balise title présente dans toutes les pages
 
 ## Internationalisation
+- Règle n°130 => Attribut lang présent dans toutes les pages
+- Règle n°128 => +32 présent devant tous les numéros de téléphone
+  
+## Navigation
+- Règle n°155 => Retour à la page d'accueil via le logo
+- Règle n°157 => Item de menu actif mis en évidence
 
-- Projet en français
-- Structure compatible multi-langue (anglais)
+## Présentation
+- Règle n°191 => Aucun texte justifié
+- Règle n°182 => Tous les contrastes ont été vérifiés
 
-Résultat : conforme
+## Structure du code
+- Règle n°233 => Balise meta charset présente
+- Règle n°234 => Vérification de la hiérarchie des titres à l'aide d'headings map
 
----
+## Données personnelles
+- Règle n°22 => Toutes les fonctionnalités sont accessibles avec un seul compte
+- Règle n°15 => RGPD présent dans le footer
 
-## Temps réel
+## Formulaires
+- Règle n°80 => Validation + erreurs présente dans tous les formulaires
+- Règle n°92 => Copier coller dans tous les champs de formulaire
 
-- Mise à jour dynamique limitée
-- Pas de fonctionnalités temps réel critiques
+## Images et médias
+- Règle n°117 => Alt présent sur chaque image
+- Règle n°123 => Durée de la vidéo affiché au survol de celle-ci
 
-Résultat : non applicable
+## Liens
+- Règle n°145 => Numéro de téléphone entouré d'une balise <a>
+- Règle n°136 => Tous les <a> possèdent un label (caché ou non)
 
----
+## Newsletter
+- Non concerné par l'application
+
+## Serveur et performances
+- Règle n°218 => Pas besoin de taper WWW dans la barre d'url pour tomber sur le site, cela fonctionne sans
+- Règle n°222 => Erreur 404 si ressource non trouvée
+
+## Sécurité
+- Règle n°197 => Protocole https présent sur toutes les pages
+- Règle n°204 => Les mots de passe peuvent être réinitialisés
+
+## Conception
+- Règle n°139 => Les liens sont soulignés
+- Règle n°138 => Liens de style identique font le même type d'action
+
+## Développement
+- Règle n°167 => Navigation clavier
+- Règle n°187 => Tous les textes sont mis en forme à l'aide de HTML et non d'image
+
+## Editorial
+- Règle n°117 => Chaque lien image à son propre label
+- Règle n°152 => Tous les liens dans le site mènent vers des pages valides
+
+## Accessibilité
+- Règle n°168 => Recherche présente dans les différentes pages
+- Règle n°166 => La navigation clavier permet d'accéder à tous les contenus
+
+## Basics
+- Règle n°75 => Champs de confirmation de mot de passe présent
+- Règle n°104 => Favicon présent dans toutes les pages
+
+## Mobile
+- Règle n°95 => Tous les types de champs de formulaire sont en accord avec le type de données qu'ils doivent recevoir
+- Règle n°194 => Toutes les interfaces sont responsive
+
+## Privacy
+- Règle n°15 => RGPD présent dans toutes les pages
+- Règle n°22 => Toutes les fonctionnalités sont accessibles via un profil
+
+## SEO
+- Règle n°232 => Meta charset présent dans toutes les pages
+- Règle n°103 => Attribut titre présent dans toutes les pages
+
+## Écoconception
+- Règle n°147 => Indication du type de document dans le bouton de téléchargement
+- Règle n°229 => Tous les styles sont compilés/minifiés
 
 # 3. Synthèse globale
 
